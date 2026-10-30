@@ -1,0 +1,9 @@
+l1,benign,benign,indeterminate,malignant,malignant,malignant
+l2,BKL,NV,AK,BCC,MEL,SCC
+label,,,,,,
+ACK,0,0,730,0,0,0
+BCC,0,0,0,845,0,0
+MEL,0,0,0,0,52,0
+NEV,0,244,0,0,0,0
+SCC,0,0,0,0,0,192
+SEK,235,0,0,0,0,0

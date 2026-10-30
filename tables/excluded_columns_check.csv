@@ -1,0 +1,2 @@
+,column,reason_excluded,v_corrected,p_naive
+0,biopsed,label leak (every cancer is biopsied; part of the benign lesions is not),0.8067354339731939,0.0

@@ -1,0 +1,4 @@
+acquisition,miss_age,miss_fitspatrick,miss_diameter_1,miss_diameter_2,miss_gender,miss_region,miss_smoke,miss_drink,miss_background_father,miss_background_mother,miss_pesticide,miss_skin_cancer_history,miss_cancer_history,miss_has_piped_water,miss_has_sewage_system,miss_itch,miss_grew,miss_hurt,miss_changed,miss_bleed,miss_elevation,complete,complete_core
+640x640,0.0,0.8,0.8,0.8,0.8,0.0,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2
+750x750,0.0,0.48,0.48,0.48,0.48,0.0,0.48,0.48,0.48,0.5067,0.48,0.48,0.48,0.48,0.48,0.0,0.0,0.0,0.0,0.0,0.0,0.4933,0.52
+other,0.0,0.3372,0.3372,0.3372,0.3372,0.0,0.3372,0.3372,0.3436,0.3445,0.3372,0.3372,0.3372,0.3372,0.3372,0.0,0.0,0.0,0.0,0.0,0.0,0.6546,0.6628

@@ -1,0 +1,2001 @@
+,feature_set,null,bacc
+0,A_missing_indicators,unit,0.17058
+1,A_missing_indicators,unit,0.12604
+2,A_missing_indicators,unit,0.18955
+3,A_missing_indicators,unit,0.14057
+4,A_missing_indicators,unit,0.15248
+5,A_missing_indicators,unit,0.14133
+6,A_missing_indicators,unit,0.17961
+7,A_missing_indicators,unit,0.15221
+8,A_missing_indicators,unit,0.18519
+9,A_missing_indicators,unit,0.18951
+10,A_missing_indicators,unit,0.18258
+11,A_missing_indicators,unit,0.15691
+12,A_missing_indicators,unit,0.18337
+13,A_missing_indicators,unit,0.1735
+14,A_missing_indicators,unit,0.19842
+15,A_missing_indicators,unit,0.16651
+16,A_missing_indicators,unit,0.14777
+17,A_missing_indicators,unit,0.16782
+18,A_missing_indicators,unit,0.17118
+19,A_missing_indicators,unit,0.19387
+20,A_missing_indicators,unit,0.18578
+21,A_missing_indicators,unit,0.15935
+22,A_missing_indicators,unit,0.1313
+23,A_missing_indicators,unit,0.16487
+24,A_missing_indicators,unit,0.18267
+25,A_missing_indicators,unit,0.14976
+26,A_missing_indicators,unit,0.14626
+27,A_missing_indicators,unit,0.21293
+28,A_missing_indicators,unit,0.15855
+29,A_missing_indicators,unit,0.16934
+30,A_missing_indicators,unit,0.13162
+31,A_missing_indicators,unit,0.16673
+32,A_missing_indicators,unit,0.18514
+33,A_missing_indicators,unit,0.14677
+34,A_missing_indicators,unit,0.1623
+35,A_missing_indicators,unit,0.14728
+36,A_missing_indicators,unit,0.16253
+37,A_missing_indicators,unit,0.15659
+38,A_missing_indicators,unit,0.16516
+39,A_missing_indicators,unit,0.16952
+40,A_missing_indicators,unit,0.15211
+41,A_missing_indicators,unit,0.17261
+42,A_missing_indicators,unit,0.17607
+43,A_missing_indicators,unit,0.15843
+44,A_missing_indicators,unit,0.16648
+45,A_missing_indicators,unit,0.15325
+46,A_missing_indicators,unit,0.18461
+47,A_missing_indicators,unit,0.14473
+48,A_missing_indicators,unit,0.19858
+49,A_missing_indicators,unit,0.17661
+50,A_missing_indicators,size-matched group,0.1524
+51,A_missing_indicators,size-matched group,0.19962
+52,A_missing_indicators,size-matched group,0.15874
+53,A_missing_indicators,size-matched group,0.17858
+54,A_missing_indicators,size-matched group,0.16832
+55,A_missing_indicators,size-matched group,0.16654
+56,A_missing_indicators,size-matched group,0.16849
+57,A_missing_indicators,size-matched group,0.16894
+58,A_missing_indicators,size-matched group,0.16272
+59,A_missing_indicators,size-matched group,0.141
+60,A_missing_indicators,size-matched group,0.18061
+61,A_missing_indicators,size-matched group,0.20826
+62,A_missing_indicators,size-matched group,0.17109
+63,A_missing_indicators,size-matched group,0.18242
+64,A_missing_indicators,size-matched group,0.18053
+65,A_missing_indicators,size-matched group,0.14448
+66,A_missing_indicators,size-matched group,0.17688
+67,A_missing_indicators,size-matched group,0.16645
+68,A_missing_indicators,size-matched group,0.1762
+69,A_missing_indicators,size-matched group,0.1694
+70,A_missing_indicators,size-matched group,0.18567
+71,A_missing_indicators,size-matched group,0.16213
+72,A_missing_indicators,size-matched group,0.18194
+73,A_missing_indicators,size-matched group,0.14581
+74,A_missing_indicators,size-matched group,0.15127
+75,A_missing_indicators,size-matched group,0.16112
+76,A_missing_indicators,size-matched group,0.17154
+77,A_missing_indicators,size-matched group,0.18102
+78,A_missing_indicators,size-matched group,0.17292
+79,A_missing_indicators,size-matched group,0.16392
+80,A_missing_indicators,size-matched group,0.13564
+81,A_missing_indicators,size-matched group,0.17326
+82,A_missing_indicators,size-matched group,0.16579
+83,A_missing_indicators,size-matched group,0.17395
+84,A_missing_indicators,size-matched group,0.19215
+85,A_missing_indicators,size-matched group,0.16967
+86,A_missing_indicators,size-matched group,0.18175
+87,A_missing_indicators,size-matched group,0.15092
+88,A_missing_indicators,size-matched group,0.11652
+89,A_missing_indicators,size-matched group,0.17299
+90,A_missing_indicators,size-matched group,0.19237
+91,A_missing_indicators,size-matched group,0.1906
+92,A_missing_indicators,size-matched group,0.19447
+93,A_missing_indicators,size-matched group,0.15396
+94,A_missing_indicators,size-matched group,0.18942
+95,A_missing_indicators,size-matched group,0.1618
+96,A_missing_indicators,size-matched group,0.16964
+97,A_missing_indicators,size-matched group,0.20873
+98,A_missing_indicators,size-matched group,0.1758
+99,A_missing_indicators,size-matched group,0.19381
+100,A_missing_indicators,size-matched group,0.17843
+101,A_missing_indicators,size-matched group,0.16945
+102,A_missing_indicators,size-matched group,0.16127
+103,A_missing_indicators,size-matched group,0.1746
+104,A_missing_indicators,size-matched group,0.16488
+105,A_missing_indicators,size-matched group,0.17169
+106,A_missing_indicators,size-matched group,0.17418
+107,A_missing_indicators,size-matched group,0.16813
+108,A_missing_indicators,size-matched group,0.1726
+109,A_missing_indicators,size-matched group,0.2055
+110,A_missing_indicators,size-matched group,0.18114
+111,A_missing_indicators,size-matched group,0.15937
+112,A_missing_indicators,size-matched group,0.1733
+113,A_missing_indicators,size-matched group,0.1817
+114,A_missing_indicators,size-matched group,0.15855
+115,A_missing_indicators,size-matched group,0.18847
+116,A_missing_indicators,size-matched group,0.16133
+117,A_missing_indicators,size-matched group,0.1565
+118,A_missing_indicators,size-matched group,0.12728
+119,A_missing_indicators,size-matched group,0.16931
+120,A_missing_indicators,size-matched group,0.151
+121,A_missing_indicators,size-matched group,0.17051
+122,A_missing_indicators,size-matched group,0.16026
+123,A_missing_indicators,size-matched group,0.16166
+124,A_missing_indicators,size-matched group,0.16496
+125,A_missing_indicators,size-matched group,0.18328
+126,A_missing_indicators,size-matched group,0.13508
+127,A_missing_indicators,size-matched group,0.17221
+128,A_missing_indicators,size-matched group,0.16222
+129,A_missing_indicators,size-matched group,0.19175
+130,A_missing_indicators,size-matched group,0.17857
+131,A_missing_indicators,size-matched group,0.17227
+132,A_missing_indicators,size-matched group,0.15626
+133,A_missing_indicators,size-matched group,0.17083
+134,A_missing_indicators,size-matched group,0.17186
+135,A_missing_indicators,size-matched group,0.16313
+136,A_missing_indicators,size-matched group,0.16082
+137,A_missing_indicators,size-matched group,0.20414
+138,A_missing_indicators,size-matched group,0.13546
+139,A_missing_indicators,size-matched group,0.18231
+140,A_missing_indicators,size-matched group,0.19711
+141,A_missing_indicators,size-matched group,0.19138
+142,A_missing_indicators,size-matched group,0.15853
+143,A_missing_indicators,size-matched group,0.16609
+144,A_missing_indicators,size-matched group,0.16981
+145,A_missing_indicators,size-matched group,0.16661
+146,A_missing_indicators,size-matched group,0.17511
+147,A_missing_indicators,size-matched group,0.18073
+148,A_missing_indicators,size-matched group,0.16041
+149,A_missing_indicators,size-matched group,0.15171
+150,A_missing_indicators,size-matched group,0.18463
+151,A_missing_indicators,size-matched group,0.15075
+152,A_missing_indicators,size-matched group,0.19073
+153,A_missing_indicators,size-matched group,0.18531
+154,A_missing_indicators,size-matched group,0.17399
+155,A_missing_indicators,size-matched group,0.14426
+156,A_missing_indicators,size-matched group,0.17693
+157,A_missing_indicators,size-matched group,0.183
+158,A_missing_indicators,size-matched group,0.18654
+159,A_missing_indicators,size-matched group,0.16529
+160,A_missing_indicators,size-matched group,0.15472
+161,A_missing_indicators,size-matched group,0.16046
+162,A_missing_indicators,size-matched group,0.18281
+163,A_missing_indicators,size-matched group,0.17142
+164,A_missing_indicators,size-matched group,0.1706
+165,A_missing_indicators,size-matched group,0.18024
+166,A_missing_indicators,size-matched group,0.14723
+167,A_missing_indicators,size-matched group,0.19003
+168,A_missing_indicators,size-matched group,0.16878
+169,A_missing_indicators,size-matched group,0.1709
+170,A_missing_indicators,size-matched group,0.17859
+171,A_missing_indicators,size-matched group,0.15054
+172,A_missing_indicators,size-matched group,0.14217
+173,A_missing_indicators,size-matched group,0.14259
+174,A_missing_indicators,size-matched group,0.16023
+175,A_missing_indicators,size-matched group,0.18876
+176,A_missing_indicators,size-matched group,0.16868
+177,A_missing_indicators,size-matched group,0.18816
+178,A_missing_indicators,size-matched group,0.20225
+179,A_missing_indicators,size-matched group,0.18256
+180,A_missing_indicators,size-matched group,0.17172
+181,A_missing_indicators,size-matched group,0.18789
+182,A_missing_indicators,size-matched group,0.17401
+183,A_missing_indicators,size-matched group,0.17942
+184,A_missing_indicators,size-matched group,0.1975
+185,A_missing_indicators,size-matched group,0.17348
+186,A_missing_indicators,size-matched group,0.16678
+187,A_missing_indicators,size-matched group,0.17341
+188,A_missing_indicators,size-matched group,0.21897
+189,A_missing_indicators,size-matched group,0.17295
+190,A_missing_indicators,size-matched group,0.19129
+191,A_missing_indicators,size-matched group,0.16981
+192,A_missing_indicators,size-matched group,0.15427
+193,A_missing_indicators,size-matched group,0.16238
+194,A_missing_indicators,size-matched group,0.19227
+195,A_missing_indicators,size-matched group,0.15553
+196,A_missing_indicators,size-matched group,0.19941
+197,A_missing_indicators,size-matched group,0.18051
+198,A_missing_indicators,size-matched group,0.15688
+199,A_missing_indicators,size-matched group,0.17962
+200,A_missing_indicators,size-matched group,0.17148
+201,A_missing_indicators,size-matched group,0.19073
+202,A_missing_indicators,size-matched group,0.15859
+203,A_missing_indicators,size-matched group,0.16355
+204,A_missing_indicators,size-matched group,0.16632
+205,A_missing_indicators,size-matched group,0.16022
+206,A_missing_indicators,size-matched group,0.17491
+207,A_missing_indicators,size-matched group,0.14593
+208,A_missing_indicators,size-matched group,0.15268
+209,A_missing_indicators,size-matched group,0.15363
+210,A_missing_indicators,size-matched group,0.16427
+211,A_missing_indicators,size-matched group,0.14145
+212,A_missing_indicators,size-matched group,0.18723
+213,A_missing_indicators,size-matched group,0.16474
+214,A_missing_indicators,size-matched group,0.1609
+215,A_missing_indicators,size-matched group,0.15053
+216,A_missing_indicators,size-matched group,0.14871
+217,A_missing_indicators,size-matched group,0.17225
+218,A_missing_indicators,size-matched group,0.18023
+219,A_missing_indicators,size-matched group,0.17398
+220,A_missing_indicators,size-matched group,0.16645
+221,A_missing_indicators,size-matched group,0.19056
+222,A_missing_indicators,size-matched group,0.15776
+223,A_missing_indicators,size-matched group,0.13093
+224,A_missing_indicators,size-matched group,0.15455
+225,A_missing_indicators,size-matched group,0.17557
+226,A_missing_indicators,size-matched group,0.14942
+227,A_missing_indicators,size-matched group,0.17251
+228,A_missing_indicators,size-matched group,0.16048
+229,A_missing_indicators,size-matched group,0.12886
+230,A_missing_indicators,size-matched group,0.15504
+231,A_missing_indicators,size-matched group,0.15928
+232,A_missing_indicators,size-matched group,0.17788
+233,A_missing_indicators,size-matched group,0.1731
+234,A_missing_indicators,size-matched group,0.1824
+235,A_missing_indicators,size-matched group,0.18571
+236,A_missing_indicators,size-matched group,0.1919
+237,A_missing_indicators,size-matched group,0.16516
+238,A_missing_indicators,size-matched group,0.17802
+239,A_missing_indicators,size-matched group,0.1884
+240,A_missing_indicators,size-matched group,0.1806
+241,A_missing_indicators,size-matched group,0.16688
+242,A_missing_indicators,size-matched group,0.16476
+243,A_missing_indicators,size-matched group,0.17901
+244,A_missing_indicators,size-matched group,0.16817
+245,A_missing_indicators,size-matched group,0.16881
+246,A_missing_indicators,size-matched group,0.14501
+247,A_missing_indicators,size-matched group,0.15624
+248,A_missing_indicators,size-matched group,0.19193
+249,A_missing_indicators,size-matched group,0.15669
+250,B_acquisition,unit,0.15948
+251,B_acquisition,unit,0.1709
+252,B_acquisition,unit,0.16431
+253,B_acquisition,unit,0.15915
+254,B_acquisition,unit,0.16498
+255,B_acquisition,unit,0.17122
+256,B_acquisition,unit,0.16545
+257,B_acquisition,unit,0.16655
+258,B_acquisition,unit,0.16911
+259,B_acquisition,unit,0.15924
+260,B_acquisition,unit,0.15531
+261,B_acquisition,unit,0.15887
+262,B_acquisition,unit,0.17533
+263,B_acquisition,unit,0.15262
+264,B_acquisition,unit,0.16146
+265,B_acquisition,unit,0.16208
+266,B_acquisition,unit,0.18467
+267,B_acquisition,unit,0.16574
+268,B_acquisition,unit,0.17073
+269,B_acquisition,unit,0.17067
+270,B_acquisition,unit,0.1635
+271,B_acquisition,unit,0.16612
+272,B_acquisition,unit,0.15641
+273,B_acquisition,unit,0.16515
+274,B_acquisition,unit,0.16267
+275,B_acquisition,unit,0.16793
+276,B_acquisition,unit,0.16543
+277,B_acquisition,unit,0.15727
+278,B_acquisition,unit,0.15863
+279,B_acquisition,unit,0.17
+280,B_acquisition,unit,0.15825
+281,B_acquisition,unit,0.16846
+282,B_acquisition,unit,0.18391
+283,B_acquisition,unit,0.16295
+284,B_acquisition,unit,0.14611
+285,B_acquisition,unit,0.1648
+286,B_acquisition,unit,0.1829
+287,B_acquisition,unit,0.17078
+288,B_acquisition,unit,0.15651
+289,B_acquisition,unit,0.16753
+290,B_acquisition,unit,0.15995
+291,B_acquisition,unit,0.18605
+292,B_acquisition,unit,0.17548
+293,B_acquisition,unit,0.17653
+294,B_acquisition,unit,0.16206
+295,B_acquisition,unit,0.17539
+296,B_acquisition,unit,0.15937
+297,B_acquisition,unit,0.16726
+298,B_acquisition,unit,0.16918
+299,B_acquisition,unit,0.14914
+300,B_acquisition,size-matched group,0.16795
+301,B_acquisition,size-matched group,0.16063
+302,B_acquisition,size-matched group,0.15791
+303,B_acquisition,size-matched group,0.16238
+304,B_acquisition,size-matched group,0.16965
+305,B_acquisition,size-matched group,0.15473
+306,B_acquisition,size-matched group,0.15268
+307,B_acquisition,size-matched group,0.17628
+308,B_acquisition,size-matched group,0.16533
+309,B_acquisition,size-matched group,0.16285
+310,B_acquisition,size-matched group,0.15775
+311,B_acquisition,size-matched group,0.15551
+312,B_acquisition,size-matched group,0.15397
+313,B_acquisition,size-matched group,0.1695
+314,B_acquisition,size-matched group,0.16768
+315,B_acquisition,size-matched group,0.17836
+316,B_acquisition,size-matched group,0.16637
+317,B_acquisition,size-matched group,0.15733
+318,B_acquisition,size-matched group,0.16046
+319,B_acquisition,size-matched group,0.17419
+320,B_acquisition,size-matched group,0.15772
+321,B_acquisition,size-matched group,0.16386
+322,B_acquisition,size-matched group,0.16091
+323,B_acquisition,size-matched group,0.16607
+324,B_acquisition,size-matched group,0.15537
+325,B_acquisition,size-matched group,0.16431
+326,B_acquisition,size-matched group,0.16458
+327,B_acquisition,size-matched group,0.17246
+328,B_acquisition,size-matched group,0.17759
+329,B_acquisition,size-matched group,0.1754
+330,B_acquisition,size-matched group,0.15412
+331,B_acquisition,size-matched group,0.17083
+332,B_acquisition,size-matched group,0.15776
+333,B_acquisition,size-matched group,0.1561
+334,B_acquisition,size-matched group,0.14255
+335,B_acquisition,size-matched group,0.17193
+336,B_acquisition,size-matched group,0.17339
+337,B_acquisition,size-matched group,0.16722
+338,B_acquisition,size-matched group,0.16362
+339,B_acquisition,size-matched group,0.16945
+340,B_acquisition,size-matched group,0.1573
+341,B_acquisition,size-matched group,0.16994
+342,B_acquisition,size-matched group,0.16526
+343,B_acquisition,size-matched group,0.17337
+344,B_acquisition,size-matched group,0.15168
+345,B_acquisition,size-matched group,0.16981
+346,B_acquisition,size-matched group,0.16027
+347,B_acquisition,size-matched group,0.18302
+348,B_acquisition,size-matched group,0.15802
+349,B_acquisition,size-matched group,0.16313
+350,B_acquisition,size-matched group,0.16886
+351,B_acquisition,size-matched group,0.1728
+352,B_acquisition,size-matched group,0.17097
+353,B_acquisition,size-matched group,0.16385
+354,B_acquisition,size-matched group,0.15912
+355,B_acquisition,size-matched group,0.17134
+356,B_acquisition,size-matched group,0.17073
+357,B_acquisition,size-matched group,0.17255
+358,B_acquisition,size-matched group,0.16409
+359,B_acquisition,size-matched group,0.16679
+360,B_acquisition,size-matched group,0.16062
+361,B_acquisition,size-matched group,0.17788
+362,B_acquisition,size-matched group,0.15874
+363,B_acquisition,size-matched group,0.16216
+364,B_acquisition,size-matched group,0.16607
+365,B_acquisition,size-matched group,0.1635
+366,B_acquisition,size-matched group,0.17246
+367,B_acquisition,size-matched group,0.16024
+368,B_acquisition,size-matched group,0.15923
+369,B_acquisition,size-matched group,0.16844
+370,B_acquisition,size-matched group,0.15378
+371,B_acquisition,size-matched group,0.1604
+372,B_acquisition,size-matched group,0.16794
+373,B_acquisition,size-matched group,0.15748
+374,B_acquisition,size-matched group,0.15501
+375,B_acquisition,size-matched group,0.16179
+376,B_acquisition,size-matched group,0.16683
+377,B_acquisition,size-matched group,0.17756
+378,B_acquisition,size-matched group,0.16855
+379,B_acquisition,size-matched group,0.16424
+380,B_acquisition,size-matched group,0.15812
+381,B_acquisition,size-matched group,0.17589
+382,B_acquisition,size-matched group,0.19343
+383,B_acquisition,size-matched group,0.1647
+384,B_acquisition,size-matched group,0.16795
+385,B_acquisition,size-matched group,0.15934
+386,B_acquisition,size-matched group,0.17267
+387,B_acquisition,size-matched group,0.16961
+388,B_acquisition,size-matched group,0.16569
+389,B_acquisition,size-matched group,0.15965
+390,B_acquisition,size-matched group,0.16848
+391,B_acquisition,size-matched group,0.1574
+392,B_acquisition,size-matched group,0.17073
+393,B_acquisition,size-matched group,0.18441
+394,B_acquisition,size-matched group,0.1727
+395,B_acquisition,size-matched group,0.17155
+396,B_acquisition,size-matched group,0.17277
+397,B_acquisition,size-matched group,0.16789
+398,B_acquisition,size-matched group,0.16708
+399,B_acquisition,size-matched group,0.16831
+400,B_acquisition,size-matched group,0.17225
+401,B_acquisition,size-matched group,0.17147
+402,B_acquisition,size-matched group,0.18269
+403,B_acquisition,size-matched group,0.16004
+404,B_acquisition,size-matched group,0.17212
+405,B_acquisition,size-matched group,0.16762
+406,B_acquisition,size-matched group,0.16492
+407,B_acquisition,size-matched group,0.16127
+408,B_acquisition,size-matched group,0.1652
+409,B_acquisition,size-matched group,0.16794
+410,B_acquisition,size-matched group,0.15693
+411,B_acquisition,size-matched group,0.15987
+412,B_acquisition,size-matched group,0.16285
+413,B_acquisition,size-matched group,0.16147
+414,B_acquisition,size-matched group,0.18085
+415,B_acquisition,size-matched group,0.17387
+416,B_acquisition,size-matched group,0.17846
+417,B_acquisition,size-matched group,0.15799
+418,B_acquisition,size-matched group,0.15385
+419,B_acquisition,size-matched group,0.18496
+420,B_acquisition,size-matched group,0.16249
+421,B_acquisition,size-matched group,0.15741
+422,B_acquisition,size-matched group,0.16148
+423,B_acquisition,size-matched group,0.17097
+424,B_acquisition,size-matched group,0.16496
+425,B_acquisition,size-matched group,0.15633
+426,B_acquisition,size-matched group,0.15978
+427,B_acquisition,size-matched group,0.17119
+428,B_acquisition,size-matched group,0.17212
+429,B_acquisition,size-matched group,0.16831
+430,B_acquisition,size-matched group,0.17589
+431,B_acquisition,size-matched group,0.16823
+432,B_acquisition,size-matched group,0.1688
+433,B_acquisition,size-matched group,0.16215
+434,B_acquisition,size-matched group,0.169
+435,B_acquisition,size-matched group,0.15878
+436,B_acquisition,size-matched group,0.16836
+437,B_acquisition,size-matched group,0.17987
+438,B_acquisition,size-matched group,0.17943
+439,B_acquisition,size-matched group,0.15609
+440,B_acquisition,size-matched group,0.16369
+441,B_acquisition,size-matched group,0.1619
+442,B_acquisition,size-matched group,0.16532
+443,B_acquisition,size-matched group,0.17297
+444,B_acquisition,size-matched group,0.17059
+445,B_acquisition,size-matched group,0.1608
+446,B_acquisition,size-matched group,0.17446
+447,B_acquisition,size-matched group,0.16913
+448,B_acquisition,size-matched group,0.16461
+449,B_acquisition,size-matched group,0.17562
+450,B_acquisition,size-matched group,0.16921
+451,B_acquisition,size-matched group,0.15714
+452,B_acquisition,size-matched group,0.1616
+453,B_acquisition,size-matched group,0.17089
+454,B_acquisition,size-matched group,0.17109
+455,B_acquisition,size-matched group,0.17078
+456,B_acquisition,size-matched group,0.17626
+457,B_acquisition,size-matched group,0.16242
+458,B_acquisition,size-matched group,0.16098
+459,B_acquisition,size-matched group,0.18545
+460,B_acquisition,size-matched group,0.19031
+461,B_acquisition,size-matched group,0.15772
+462,B_acquisition,size-matched group,0.18064
+463,B_acquisition,size-matched group,0.17307
+464,B_acquisition,size-matched group,0.15385
+465,B_acquisition,size-matched group,0.16797
+466,B_acquisition,size-matched group,0.16202
+467,B_acquisition,size-matched group,0.16934
+468,B_acquisition,size-matched group,0.16792
+469,B_acquisition,size-matched group,0.17429
+470,B_acquisition,size-matched group,0.14743
+471,B_acquisition,size-matched group,0.17735
+472,B_acquisition,size-matched group,0.17278
+473,B_acquisition,size-matched group,0.16325
+474,B_acquisition,size-matched group,0.17287
+475,B_acquisition,size-matched group,0.18478
+476,B_acquisition,size-matched group,0.16944
+477,B_acquisition,size-matched group,0.17548
+478,B_acquisition,size-matched group,0.17671
+479,B_acquisition,size-matched group,0.16059
+480,B_acquisition,size-matched group,0.16907
+481,B_acquisition,size-matched group,0.16724
+482,B_acquisition,size-matched group,0.17735
+483,B_acquisition,size-matched group,0.16305
+484,B_acquisition,size-matched group,0.16515
+485,B_acquisition,size-matched group,0.15536
+486,B_acquisition,size-matched group,0.1623
+487,B_acquisition,size-matched group,0.15841
+488,B_acquisition,size-matched group,0.18087
+489,B_acquisition,size-matched group,0.16945
+490,B_acquisition,size-matched group,0.17922
+491,B_acquisition,size-matched group,0.1707
+492,B_acquisition,size-matched group,0.1792
+493,B_acquisition,size-matched group,0.15395
+494,B_acquisition,size-matched group,0.16789
+495,B_acquisition,size-matched group,0.15653
+496,B_acquisition,size-matched group,0.16452
+497,B_acquisition,size-matched group,0.16566
+498,B_acquisition,size-matched group,0.17023
+499,B_acquisition,size-matched group,0.15781
+500,C_image_size,unit,0.15171
+501,C_image_size,unit,0.16789
+502,C_image_size,unit,0.15592
+503,C_image_size,unit,0.17316
+504,C_image_size,unit,0.1722
+505,C_image_size,unit,0.17607
+506,C_image_size,unit,0.17635
+507,C_image_size,unit,0.16507
+508,C_image_size,unit,0.16289
+509,C_image_size,unit,0.16424
+510,C_image_size,unit,0.17409
+511,C_image_size,unit,0.1723
+512,C_image_size,unit,0.15595
+513,C_image_size,unit,0.17433
+514,C_image_size,unit,0.16957
+515,C_image_size,unit,0.15907
+516,C_image_size,unit,0.18059
+517,C_image_size,unit,0.17216
+518,C_image_size,unit,0.16536
+519,C_image_size,unit,0.16341
+520,C_image_size,unit,0.17889
+521,C_image_size,unit,0.16804
+522,C_image_size,unit,0.15519
+523,C_image_size,unit,0.15784
+524,C_image_size,unit,0.16126
+525,C_image_size,unit,0.16238
+526,C_image_size,unit,0.16598
+527,C_image_size,unit,0.15441
+528,C_image_size,unit,0.16766
+529,C_image_size,unit,0.1708
+530,C_image_size,unit,0.18322
+531,C_image_size,unit,0.17909
+532,C_image_size,unit,0.17488
+533,C_image_size,unit,0.16844
+534,C_image_size,unit,0.14883
+535,C_image_size,unit,0.15742
+536,C_image_size,unit,0.15957
+537,C_image_size,unit,0.16772
+538,C_image_size,unit,0.16482
+539,C_image_size,unit,0.14076
+540,C_image_size,unit,0.14726
+541,C_image_size,unit,0.16479
+542,C_image_size,unit,0.15087
+543,C_image_size,unit,0.17256
+544,C_image_size,unit,0.15699
+545,C_image_size,unit,0.1681
+546,C_image_size,unit,0.19153
+547,C_image_size,unit,0.17791
+548,C_image_size,unit,0.19028
+549,C_image_size,unit,0.16121
+550,C_image_size,size-matched group,0.16066
+551,C_image_size,size-matched group,0.16558
+552,C_image_size,size-matched group,0.15252
+553,C_image_size,size-matched group,0.14915
+554,C_image_size,size-matched group,0.17437
+555,C_image_size,size-matched group,0.15719
+556,C_image_size,size-matched group,0.1747
+557,C_image_size,size-matched group,0.16831
+558,C_image_size,size-matched group,0.177
+559,C_image_size,size-matched group,0.15665
+560,C_image_size,size-matched group,0.16091
+561,C_image_size,size-matched group,0.14304
+562,C_image_size,size-matched group,0.16777
+563,C_image_size,size-matched group,0.18166
+564,C_image_size,size-matched group,0.15164
+565,C_image_size,size-matched group,0.16592
+566,C_image_size,size-matched group,0.1687
+567,C_image_size,size-matched group,0.16069
+568,C_image_size,size-matched group,0.16471
+569,C_image_size,size-matched group,0.14186
+570,C_image_size,size-matched group,0.1552
+571,C_image_size,size-matched group,0.16927
+572,C_image_size,size-matched group,0.17423
+573,C_image_size,size-matched group,0.14813
+574,C_image_size,size-matched group,0.15973
+575,C_image_size,size-matched group,0.18279
+576,C_image_size,size-matched group,0.19579
+577,C_image_size,size-matched group,0.1641
+578,C_image_size,size-matched group,0.15304
+579,C_image_size,size-matched group,0.16358
+580,C_image_size,size-matched group,0.16588
+581,C_image_size,size-matched group,0.17374
+582,C_image_size,size-matched group,0.18429
+583,C_image_size,size-matched group,0.1563
+584,C_image_size,size-matched group,0.14756
+585,C_image_size,size-matched group,0.1791
+586,C_image_size,size-matched group,0.15707
+587,C_image_size,size-matched group,0.17021
+588,C_image_size,size-matched group,0.16255
+589,C_image_size,size-matched group,0.16798
+590,C_image_size,size-matched group,0.17282
+591,C_image_size,size-matched group,0.16392
+592,C_image_size,size-matched group,0.18567
+593,C_image_size,size-matched group,0.16339
+594,C_image_size,size-matched group,0.18556
+595,C_image_size,size-matched group,0.17037
+596,C_image_size,size-matched group,0.18723
+597,C_image_size,size-matched group,0.18017
+598,C_image_size,size-matched group,0.17492
+599,C_image_size,size-matched group,0.16473
+600,C_image_size,size-matched group,0.15088
+601,C_image_size,size-matched group,0.16329
+602,C_image_size,size-matched group,0.15985
+603,C_image_size,size-matched group,0.15268
+604,C_image_size,size-matched group,0.18025
+605,C_image_size,size-matched group,0.15469
+606,C_image_size,size-matched group,0.1691
+607,C_image_size,size-matched group,0.15815
+608,C_image_size,size-matched group,0.14944
+609,C_image_size,size-matched group,0.15964
+610,C_image_size,size-matched group,0.17097
+611,C_image_size,size-matched group,0.16658
+612,C_image_size,size-matched group,0.16117
+613,C_image_size,size-matched group,0.18003
+614,C_image_size,size-matched group,0.17211
+615,C_image_size,size-matched group,0.16115
+616,C_image_size,size-matched group,0.18317
+617,C_image_size,size-matched group,0.16482
+618,C_image_size,size-matched group,0.17452
+619,C_image_size,size-matched group,0.1549
+620,C_image_size,size-matched group,0.17073
+621,C_image_size,size-matched group,0.15844
+622,C_image_size,size-matched group,0.17576
+623,C_image_size,size-matched group,0.14864
+624,C_image_size,size-matched group,0.14569
+625,C_image_size,size-matched group,0.15195
+626,C_image_size,size-matched group,0.1754
+627,C_image_size,size-matched group,0.14769
+628,C_image_size,size-matched group,0.16264
+629,C_image_size,size-matched group,0.15964
+630,C_image_size,size-matched group,0.16068
+631,C_image_size,size-matched group,0.17557
+632,C_image_size,size-matched group,0.16918
+633,C_image_size,size-matched group,0.16491
+634,C_image_size,size-matched group,0.15661
+635,C_image_size,size-matched group,0.17248
+636,C_image_size,size-matched group,0.15232
+637,C_image_size,size-matched group,0.15306
+638,C_image_size,size-matched group,0.16708
+639,C_image_size,size-matched group,0.16749
+640,C_image_size,size-matched group,0.15968
+641,C_image_size,size-matched group,0.16669
+642,C_image_size,size-matched group,0.17329
+643,C_image_size,size-matched group,0.16686
+644,C_image_size,size-matched group,0.16371
+645,C_image_size,size-matched group,0.15675
+646,C_image_size,size-matched group,0.18146
+647,C_image_size,size-matched group,0.1614
+648,C_image_size,size-matched group,0.16277
+649,C_image_size,size-matched group,0.15622
+650,C_image_size,size-matched group,0.15676
+651,C_image_size,size-matched group,0.1731
+652,C_image_size,size-matched group,0.17247
+653,C_image_size,size-matched group,0.16694
+654,C_image_size,size-matched group,0.15994
+655,C_image_size,size-matched group,0.15899
+656,C_image_size,size-matched group,0.17342
+657,C_image_size,size-matched group,0.15349
+658,C_image_size,size-matched group,0.16496
+659,C_image_size,size-matched group,0.16167
+660,C_image_size,size-matched group,0.17328
+661,C_image_size,size-matched group,0.15945
+662,C_image_size,size-matched group,0.16497
+663,C_image_size,size-matched group,0.15241
+664,C_image_size,size-matched group,0.18222
+665,C_image_size,size-matched group,0.14723
+666,C_image_size,size-matched group,0.1596
+667,C_image_size,size-matched group,0.17722
+668,C_image_size,size-matched group,0.17088
+669,C_image_size,size-matched group,0.14362
+670,C_image_size,size-matched group,0.15405
+671,C_image_size,size-matched group,0.16649
+672,C_image_size,size-matched group,0.16039
+673,C_image_size,size-matched group,0.14547
+674,C_image_size,size-matched group,0.16101
+675,C_image_size,size-matched group,0.15978
+676,C_image_size,size-matched group,0.15226
+677,C_image_size,size-matched group,0.16076
+678,C_image_size,size-matched group,0.16763
+679,C_image_size,size-matched group,0.18777
+680,C_image_size,size-matched group,0.18036
+681,C_image_size,size-matched group,0.1774
+682,C_image_size,size-matched group,0.18236
+683,C_image_size,size-matched group,0.16594
+684,C_image_size,size-matched group,0.17198
+685,C_image_size,size-matched group,0.17663
+686,C_image_size,size-matched group,0.16204
+687,C_image_size,size-matched group,0.14979
+688,C_image_size,size-matched group,0.17179
+689,C_image_size,size-matched group,0.15309
+690,C_image_size,size-matched group,0.16019
+691,C_image_size,size-matched group,0.15193
+692,C_image_size,size-matched group,0.18027
+693,C_image_size,size-matched group,0.14857
+694,C_image_size,size-matched group,0.15908
+695,C_image_size,size-matched group,0.16365
+696,C_image_size,size-matched group,0.17144
+697,C_image_size,size-matched group,0.17466
+698,C_image_size,size-matched group,0.17385
+699,C_image_size,size-matched group,0.1658
+700,C_image_size,size-matched group,0.14067
+701,C_image_size,size-matched group,0.1503
+702,C_image_size,size-matched group,0.15139
+703,C_image_size,size-matched group,0.18057
+704,C_image_size,size-matched group,0.16645
+705,C_image_size,size-matched group,0.15631
+706,C_image_size,size-matched group,0.16881
+707,C_image_size,size-matched group,0.17483
+708,C_image_size,size-matched group,0.17013
+709,C_image_size,size-matched group,0.2046
+710,C_image_size,size-matched group,0.16113
+711,C_image_size,size-matched group,0.15846
+712,C_image_size,size-matched group,0.17938
+713,C_image_size,size-matched group,0.16336
+714,C_image_size,size-matched group,0.17326
+715,C_image_size,size-matched group,0.17303
+716,C_image_size,size-matched group,0.17326
+717,C_image_size,size-matched group,0.15833
+718,C_image_size,size-matched group,0.16956
+719,C_image_size,size-matched group,0.18062
+720,C_image_size,size-matched group,0.17162
+721,C_image_size,size-matched group,0.1682
+722,C_image_size,size-matched group,0.17206
+723,C_image_size,size-matched group,0.16533
+724,C_image_size,size-matched group,0.15424
+725,C_image_size,size-matched group,0.16691
+726,C_image_size,size-matched group,0.14826
+727,C_image_size,size-matched group,0.17808
+728,C_image_size,size-matched group,0.16989
+729,C_image_size,size-matched group,0.18529
+730,C_image_size,size-matched group,0.17569
+731,C_image_size,size-matched group,0.16971
+732,C_image_size,size-matched group,0.15336
+733,C_image_size,size-matched group,0.18064
+734,C_image_size,size-matched group,0.15803
+735,C_image_size,size-matched group,0.14835
+736,C_image_size,size-matched group,0.18188
+737,C_image_size,size-matched group,0.18387
+738,C_image_size,size-matched group,0.19473
+739,C_image_size,size-matched group,0.1561
+740,C_image_size,size-matched group,0.15723
+741,C_image_size,size-matched group,0.15995
+742,C_image_size,size-matched group,0.17422
+743,C_image_size,size-matched group,0.16127
+744,C_image_size,size-matched group,0.16687
+745,C_image_size,size-matched group,0.15925
+746,C_image_size,size-matched group,0.17326
+747,C_image_size,size-matched group,0.16425
+748,C_image_size,size-matched group,0.14698
+749,C_image_size,size-matched group,0.16907
+750,D_acquisition_plus_indicators,unit,0.17047
+751,D_acquisition_plus_indicators,unit,0.13197
+752,D_acquisition_plus_indicators,unit,0.18658
+753,D_acquisition_plus_indicators,unit,0.14348
+754,D_acquisition_plus_indicators,unit,0.16924
+755,D_acquisition_plus_indicators,unit,0.14093
+756,D_acquisition_plus_indicators,unit,0.17024
+757,D_acquisition_plus_indicators,unit,0.15368
+758,D_acquisition_plus_indicators,unit,0.18124
+759,D_acquisition_plus_indicators,unit,0.19216
+760,D_acquisition_plus_indicators,unit,0.18134
+761,D_acquisition_plus_indicators,unit,0.16154
+762,D_acquisition_plus_indicators,unit,0.19835
+763,D_acquisition_plus_indicators,unit,0.16893
+764,D_acquisition_plus_indicators,unit,0.20179
+765,D_acquisition_plus_indicators,unit,0.15761
+766,D_acquisition_plus_indicators,unit,0.16827
+767,D_acquisition_plus_indicators,unit,0.1532
+768,D_acquisition_plus_indicators,unit,0.15811
+769,D_acquisition_plus_indicators,unit,0.18116
+770,D_acquisition_plus_indicators,unit,0.18124
+771,D_acquisition_plus_indicators,unit,0.15851
+772,D_acquisition_plus_indicators,unit,0.13261
+773,D_acquisition_plus_indicators,unit,0.13327
+774,D_acquisition_plus_indicators,unit,0.17374
+775,D_acquisition_plus_indicators,unit,0.15877
+776,D_acquisition_plus_indicators,unit,0.14979
+777,D_acquisition_plus_indicators,unit,0.20816
+778,D_acquisition_plus_indicators,unit,0.15134
+779,D_acquisition_plus_indicators,unit,0.17047
+780,D_acquisition_plus_indicators,unit,0.13042
+781,D_acquisition_plus_indicators,unit,0.16161
+782,D_acquisition_plus_indicators,unit,0.1762
+783,D_acquisition_plus_indicators,unit,0.14874
+784,D_acquisition_plus_indicators,unit,0.157
+785,D_acquisition_plus_indicators,unit,0.15925
+786,D_acquisition_plus_indicators,unit,0.17806
+787,D_acquisition_plus_indicators,unit,0.15528
+788,D_acquisition_plus_indicators,unit,0.16096
+789,D_acquisition_plus_indicators,unit,0.16672
+790,D_acquisition_plus_indicators,unit,0.17621
+791,D_acquisition_plus_indicators,unit,0.1692
+792,D_acquisition_plus_indicators,unit,0.16748
+793,D_acquisition_plus_indicators,unit,0.1552
+794,D_acquisition_plus_indicators,unit,0.17318
+795,D_acquisition_plus_indicators,unit,0.16313
+796,D_acquisition_plus_indicators,unit,0.16461
+797,D_acquisition_plus_indicators,unit,0.14208
+798,D_acquisition_plus_indicators,unit,0.19179
+799,D_acquisition_plus_indicators,unit,0.16217
+800,D_acquisition_plus_indicators,size-matched group,0.15922
+801,D_acquisition_plus_indicators,size-matched group,0.1987
+802,D_acquisition_plus_indicators,size-matched group,0.16085
+803,D_acquisition_plus_indicators,size-matched group,0.17687
+804,D_acquisition_plus_indicators,size-matched group,0.15338
+805,D_acquisition_plus_indicators,size-matched group,0.15195
+806,D_acquisition_plus_indicators,size-matched group,0.15359
+807,D_acquisition_plus_indicators,size-matched group,0.17534
+808,D_acquisition_plus_indicators,size-matched group,0.18947
+809,D_acquisition_plus_indicators,size-matched group,0.14782
+810,D_acquisition_plus_indicators,size-matched group,0.18351
+811,D_acquisition_plus_indicators,size-matched group,0.19775
+812,D_acquisition_plus_indicators,size-matched group,0.16547
+813,D_acquisition_plus_indicators,size-matched group,0.18157
+814,D_acquisition_plus_indicators,size-matched group,0.19674
+815,D_acquisition_plus_indicators,size-matched group,0.15872
+816,D_acquisition_plus_indicators,size-matched group,0.18751
+817,D_acquisition_plus_indicators,size-matched group,0.17199
+818,D_acquisition_plus_indicators,size-matched group,0.15847
+819,D_acquisition_plus_indicators,size-matched group,0.14637
+820,D_acquisition_plus_indicators,size-matched group,0.18113
+821,D_acquisition_plus_indicators,size-matched group,0.15187
+822,D_acquisition_plus_indicators,size-matched group,0.17772
+823,D_acquisition_plus_indicators,size-matched group,0.13498
+824,D_acquisition_plus_indicators,size-matched group,0.14066
+825,D_acquisition_plus_indicators,size-matched group,0.15586
+826,D_acquisition_plus_indicators,size-matched group,0.16919
+827,D_acquisition_plus_indicators,size-matched group,0.18012
+828,D_acquisition_plus_indicators,size-matched group,0.17629
+829,D_acquisition_plus_indicators,size-matched group,0.16038
+830,D_acquisition_plus_indicators,size-matched group,0.13618
+831,D_acquisition_plus_indicators,size-matched group,0.17604
+832,D_acquisition_plus_indicators,size-matched group,0.16625
+833,D_acquisition_plus_indicators,size-matched group,0.15811
+834,D_acquisition_plus_indicators,size-matched group,0.18956
+835,D_acquisition_plus_indicators,size-matched group,0.16593
+836,D_acquisition_plus_indicators,size-matched group,0.1805
+837,D_acquisition_plus_indicators,size-matched group,0.15467
+838,D_acquisition_plus_indicators,size-matched group,0.11725
+839,D_acquisition_plus_indicators,size-matched group,0.19292
+840,D_acquisition_plus_indicators,size-matched group,0.18055
+841,D_acquisition_plus_indicators,size-matched group,0.18439
+842,D_acquisition_plus_indicators,size-matched group,0.16257
+843,D_acquisition_plus_indicators,size-matched group,0.15953
+844,D_acquisition_plus_indicators,size-matched group,0.17383
+845,D_acquisition_plus_indicators,size-matched group,0.15836
+846,D_acquisition_plus_indicators,size-matched group,0.17065
+847,D_acquisition_plus_indicators,size-matched group,0.18952
+848,D_acquisition_plus_indicators,size-matched group,0.17105
+849,D_acquisition_plus_indicators,size-matched group,0.19599
+850,D_acquisition_plus_indicators,size-matched group,0.18017
+851,D_acquisition_plus_indicators,size-matched group,0.19108
+852,D_acquisition_plus_indicators,size-matched group,0.16207
+853,D_acquisition_plus_indicators,size-matched group,0.17014
+854,D_acquisition_plus_indicators,size-matched group,0.16069
+855,D_acquisition_plus_indicators,size-matched group,0.1809
+856,D_acquisition_plus_indicators,size-matched group,0.16988
+857,D_acquisition_plus_indicators,size-matched group,0.16507
+858,D_acquisition_plus_indicators,size-matched group,0.16954
+859,D_acquisition_plus_indicators,size-matched group,0.19679
+860,D_acquisition_plus_indicators,size-matched group,0.17753
+861,D_acquisition_plus_indicators,size-matched group,0.16553
+862,D_acquisition_plus_indicators,size-matched group,0.18371
+863,D_acquisition_plus_indicators,size-matched group,0.18913
+864,D_acquisition_plus_indicators,size-matched group,0.17307
+865,D_acquisition_plus_indicators,size-matched group,0.18942
+866,D_acquisition_plus_indicators,size-matched group,0.18325
+867,D_acquisition_plus_indicators,size-matched group,0.16331
+868,D_acquisition_plus_indicators,size-matched group,0.13078
+869,D_acquisition_plus_indicators,size-matched group,0.17214
+870,D_acquisition_plus_indicators,size-matched group,0.14382
+871,D_acquisition_plus_indicators,size-matched group,0.17392
+872,D_acquisition_plus_indicators,size-matched group,0.14249
+873,D_acquisition_plus_indicators,size-matched group,0.15873
+874,D_acquisition_plus_indicators,size-matched group,0.16384
+875,D_acquisition_plus_indicators,size-matched group,0.16777
+876,D_acquisition_plus_indicators,size-matched group,0.12963
+877,D_acquisition_plus_indicators,size-matched group,0.17495
+878,D_acquisition_plus_indicators,size-matched group,0.14764
+879,D_acquisition_plus_indicators,size-matched group,0.18769
+880,D_acquisition_plus_indicators,size-matched group,0.17995
+881,D_acquisition_plus_indicators,size-matched group,0.16042
+882,D_acquisition_plus_indicators,size-matched group,0.18778
+883,D_acquisition_plus_indicators,size-matched group,0.16001
+884,D_acquisition_plus_indicators,size-matched group,0.16448
+885,D_acquisition_plus_indicators,size-matched group,0.1618
+886,D_acquisition_plus_indicators,size-matched group,0.15112
+887,D_acquisition_plus_indicators,size-matched group,0.18289
+888,D_acquisition_plus_indicators,size-matched group,0.13559
+889,D_acquisition_plus_indicators,size-matched group,0.17185
+890,D_acquisition_plus_indicators,size-matched group,0.19817
+891,D_acquisition_plus_indicators,size-matched group,0.17435
+892,D_acquisition_plus_indicators,size-matched group,0.16338
+893,D_acquisition_plus_indicators,size-matched group,0.16725
+894,D_acquisition_plus_indicators,size-matched group,0.18353
+895,D_acquisition_plus_indicators,size-matched group,0.17039
+896,D_acquisition_plus_indicators,size-matched group,0.17246
+897,D_acquisition_plus_indicators,size-matched group,0.17439
+898,D_acquisition_plus_indicators,size-matched group,0.16796
+899,D_acquisition_plus_indicators,size-matched group,0.16392
+900,D_acquisition_plus_indicators,size-matched group,0.17993
+901,D_acquisition_plus_indicators,size-matched group,0.14967
+902,D_acquisition_plus_indicators,size-matched group,0.19809
+903,D_acquisition_plus_indicators,size-matched group,0.18306
+904,D_acquisition_plus_indicators,size-matched group,0.17866
+905,D_acquisition_plus_indicators,size-matched group,0.15203
+906,D_acquisition_plus_indicators,size-matched group,0.18565
+907,D_acquisition_plus_indicators,size-matched group,0.17756
+908,D_acquisition_plus_indicators,size-matched group,0.17728
+909,D_acquisition_plus_indicators,size-matched group,0.16504
+910,D_acquisition_plus_indicators,size-matched group,0.13659
+911,D_acquisition_plus_indicators,size-matched group,0.15405
+912,D_acquisition_plus_indicators,size-matched group,0.178
+913,D_acquisition_plus_indicators,size-matched group,0.16441
+914,D_acquisition_plus_indicators,size-matched group,0.18388
+915,D_acquisition_plus_indicators,size-matched group,0.1774
+916,D_acquisition_plus_indicators,size-matched group,0.16671
+917,D_acquisition_plus_indicators,size-matched group,0.19143
+918,D_acquisition_plus_indicators,size-matched group,0.17993
+919,D_acquisition_plus_indicators,size-matched group,0.17067
+920,D_acquisition_plus_indicators,size-matched group,0.17747
+921,D_acquisition_plus_indicators,size-matched group,0.1544
+922,D_acquisition_plus_indicators,size-matched group,0.14071
+923,D_acquisition_plus_indicators,size-matched group,0.13795
+924,D_acquisition_plus_indicators,size-matched group,0.1603
+925,D_acquisition_plus_indicators,size-matched group,0.17859
+926,D_acquisition_plus_indicators,size-matched group,0.16359
+927,D_acquisition_plus_indicators,size-matched group,0.19153
+928,D_acquisition_plus_indicators,size-matched group,0.20176
+929,D_acquisition_plus_indicators,size-matched group,0.18628
+930,D_acquisition_plus_indicators,size-matched group,0.18631
+931,D_acquisition_plus_indicators,size-matched group,0.17679
+932,D_acquisition_plus_indicators,size-matched group,0.17901
+933,D_acquisition_plus_indicators,size-matched group,0.16951
+934,D_acquisition_plus_indicators,size-matched group,0.1982
+935,D_acquisition_plus_indicators,size-matched group,0.18359
+936,D_acquisition_plus_indicators,size-matched group,0.17672
+937,D_acquisition_plus_indicators,size-matched group,0.16629
+938,D_acquisition_plus_indicators,size-matched group,0.21491
+939,D_acquisition_plus_indicators,size-matched group,0.17074
+940,D_acquisition_plus_indicators,size-matched group,0.18734
+941,D_acquisition_plus_indicators,size-matched group,0.17102
+942,D_acquisition_plus_indicators,size-matched group,0.16001
+943,D_acquisition_plus_indicators,size-matched group,0.16737
+944,D_acquisition_plus_indicators,size-matched group,0.19434
+945,D_acquisition_plus_indicators,size-matched group,0.1771
+946,D_acquisition_plus_indicators,size-matched group,0.20866
+947,D_acquisition_plus_indicators,size-matched group,0.18774
+948,D_acquisition_plus_indicators,size-matched group,0.14425
+949,D_acquisition_plus_indicators,size-matched group,0.17724
+950,D_acquisition_plus_indicators,size-matched group,0.1836
+951,D_acquisition_plus_indicators,size-matched group,0.18744
+952,D_acquisition_plus_indicators,size-matched group,0.14884
+953,D_acquisition_plus_indicators,size-matched group,0.16898
+954,D_acquisition_plus_indicators,size-matched group,0.15651
+955,D_acquisition_plus_indicators,size-matched group,0.1829
+956,D_acquisition_plus_indicators,size-matched group,0.18781
+957,D_acquisition_plus_indicators,size-matched group,0.14321
+958,D_acquisition_plus_indicators,size-matched group,0.15126
+959,D_acquisition_plus_indicators,size-matched group,0.18783
+960,D_acquisition_plus_indicators,size-matched group,0.17504
+961,D_acquisition_plus_indicators,size-matched group,0.13667
+962,D_acquisition_plus_indicators,size-matched group,0.19211
+963,D_acquisition_plus_indicators,size-matched group,0.17355
+964,D_acquisition_plus_indicators,size-matched group,0.15957
+965,D_acquisition_plus_indicators,size-matched group,0.15266
+966,D_acquisition_plus_indicators,size-matched group,0.16981
+967,D_acquisition_plus_indicators,size-matched group,0.1608
+968,D_acquisition_plus_indicators,size-matched group,0.18087
+969,D_acquisition_plus_indicators,size-matched group,0.16862
+970,D_acquisition_plus_indicators,size-matched group,0.16453
+971,D_acquisition_plus_indicators,size-matched group,0.19172
+972,D_acquisition_plus_indicators,size-matched group,0.16889
+973,D_acquisition_plus_indicators,size-matched group,0.12663
+974,D_acquisition_plus_indicators,size-matched group,0.15765
+975,D_acquisition_plus_indicators,size-matched group,0.17315
+976,D_acquisition_plus_indicators,size-matched group,0.15116
+977,D_acquisition_plus_indicators,size-matched group,0.15237
+978,D_acquisition_plus_indicators,size-matched group,0.16792
+979,D_acquisition_plus_indicators,size-matched group,0.12464
+980,D_acquisition_plus_indicators,size-matched group,0.13606
+981,D_acquisition_plus_indicators,size-matched group,0.15176
+982,D_acquisition_plus_indicators,size-matched group,0.17517
+983,D_acquisition_plus_indicators,size-matched group,0.15855
+984,D_acquisition_plus_indicators,size-matched group,0.19172
+985,D_acquisition_plus_indicators,size-matched group,0.1681
+986,D_acquisition_plus_indicators,size-matched group,0.18771
+987,D_acquisition_plus_indicators,size-matched group,0.15913
+988,D_acquisition_plus_indicators,size-matched group,0.18095
+989,D_acquisition_plus_indicators,size-matched group,0.18533
+990,D_acquisition_plus_indicators,size-matched group,0.19624
+991,D_acquisition_plus_indicators,size-matched group,0.16962
+992,D_acquisition_plus_indicators,size-matched group,0.17709
+993,D_acquisition_plus_indicators,size-matched group,0.17274
+994,D_acquisition_plus_indicators,size-matched group,0.14918
+995,D_acquisition_plus_indicators,size-matched group,0.14803
+996,D_acquisition_plus_indicators,size-matched group,0.14939
+997,D_acquisition_plus_indicators,size-matched group,0.157
+998,D_acquisition_plus_indicators,size-matched group,0.19762
+999,D_acquisition_plus_indicators,size-matched group,0.14306
+1000,E_values_with_missing,unit,0.16726
+1001,E_values_with_missing,unit,0.17309
+1002,E_values_with_missing,unit,0.15057
+1003,E_values_with_missing,unit,0.15847
+1004,E_values_with_missing,unit,0.17077
+1005,E_values_with_missing,unit,0.17903
+1006,E_values_with_missing,unit,0.17365
+1007,E_values_with_missing,unit,0.15184
+1008,E_values_with_missing,unit,0.17481
+1009,E_values_with_missing,unit,0.16726
+1010,E_values_with_missing,unit,0.17602
+1011,E_values_with_missing,unit,0.1636
+1012,E_values_with_missing,unit,0.16638
+1013,E_values_with_missing,unit,0.17139
+1014,E_values_with_missing,unit,0.17554
+1015,E_values_with_missing,unit,0.15038
+1016,E_values_with_missing,unit,0.16965
+1017,E_values_with_missing,unit,0.16089
+1018,E_values_with_missing,unit,0.1638
+1019,E_values_with_missing,unit,0.17165
+1020,E_values_with_missing,unit,0.15439
+1021,E_values_with_missing,unit,0.16844
+1022,E_values_with_missing,unit,0.1556
+1023,E_values_with_missing,unit,0.17008
+1024,E_values_with_missing,unit,0.1603
+1025,E_values_with_missing,unit,0.17998
+1026,E_values_with_missing,unit,0.16942
+1027,E_values_with_missing,unit,0.1654
+1028,E_values_with_missing,unit,0.15535
+1029,E_values_with_missing,unit,0.18457
+1030,E_values_with_missing,unit,0.16618
+1031,E_values_with_missing,unit,0.18801
+1032,E_values_with_missing,unit,0.17167
+1033,E_values_with_missing,unit,0.14453
+1034,E_values_with_missing,unit,0.16912
+1035,E_values_with_missing,unit,0.1694
+1036,E_values_with_missing,unit,0.18319
+1037,E_values_with_missing,unit,0.16596
+1038,E_values_with_missing,unit,0.16205
+1039,E_values_with_missing,unit,0.17575
+1040,E_values_with_missing,unit,0.17949
+1041,E_values_with_missing,unit,0.15674
+1042,E_values_with_missing,unit,0.15015
+1043,E_values_with_missing,unit,0.1628
+1044,E_values_with_missing,unit,0.16361
+1045,E_values_with_missing,unit,0.15574
+1046,E_values_with_missing,unit,0.15963
+1047,E_values_with_missing,unit,0.16333
+1048,E_values_with_missing,unit,0.18552
+1049,E_values_with_missing,unit,0.16211
+1050,E_values_with_missing,size-matched group,0.18283
+1051,E_values_with_missing,size-matched group,0.16237
+1052,E_values_with_missing,size-matched group,0.16731
+1053,E_values_with_missing,size-matched group,0.17734
+1054,E_values_with_missing,size-matched group,0.15237
+1055,E_values_with_missing,size-matched group,0.18055
+1056,E_values_with_missing,size-matched group,0.15969
+1057,E_values_with_missing,size-matched group,0.17366
+1058,E_values_with_missing,size-matched group,0.16462
+1059,E_values_with_missing,size-matched group,0.15265
+1060,E_values_with_missing,size-matched group,0.1617
+1061,E_values_with_missing,size-matched group,0.17912
+1062,E_values_with_missing,size-matched group,0.16526
+1063,E_values_with_missing,size-matched group,0.16145
+1064,E_values_with_missing,size-matched group,0.17723
+1065,E_values_with_missing,size-matched group,0.15908
+1066,E_values_with_missing,size-matched group,0.16492
+1067,E_values_with_missing,size-matched group,0.16737
+1068,E_values_with_missing,size-matched group,0.16123
+1069,E_values_with_missing,size-matched group,0.17824
+1070,E_values_with_missing,size-matched group,0.17017
+1071,E_values_with_missing,size-matched group,0.17534
+1072,E_values_with_missing,size-matched group,0.15457
+1073,E_values_with_missing,size-matched group,0.16927
+1074,E_values_with_missing,size-matched group,0.1507
+1075,E_values_with_missing,size-matched group,0.185
+1076,E_values_with_missing,size-matched group,0.16832
+1077,E_values_with_missing,size-matched group,0.17531
+1078,E_values_with_missing,size-matched group,0.17141
+1079,E_values_with_missing,size-matched group,0.1647
+1080,E_values_with_missing,size-matched group,0.17552
+1081,E_values_with_missing,size-matched group,0.17082
+1082,E_values_with_missing,size-matched group,0.13464
+1083,E_values_with_missing,size-matched group,0.16534
+1084,E_values_with_missing,size-matched group,0.14867
+1085,E_values_with_missing,size-matched group,0.17341
+1086,E_values_with_missing,size-matched group,0.1628
+1087,E_values_with_missing,size-matched group,0.16782
+1088,E_values_with_missing,size-matched group,0.17407
+1089,E_values_with_missing,size-matched group,0.16118
+1090,E_values_with_missing,size-matched group,0.16081
+1091,E_values_with_missing,size-matched group,0.17591
+1092,E_values_with_missing,size-matched group,0.1643
+1093,E_values_with_missing,size-matched group,0.15363
+1094,E_values_with_missing,size-matched group,0.16686
+1095,E_values_with_missing,size-matched group,0.16237
+1096,E_values_with_missing,size-matched group,0.16041
+1097,E_values_with_missing,size-matched group,0.15946
+1098,E_values_with_missing,size-matched group,0.19308
+1099,E_values_with_missing,size-matched group,0.16218
+1100,E_values_with_missing,size-matched group,0.16885
+1101,E_values_with_missing,size-matched group,0.17507
+1102,E_values_with_missing,size-matched group,0.16098
+1103,E_values_with_missing,size-matched group,0.17139
+1104,E_values_with_missing,size-matched group,0.16547
+1105,E_values_with_missing,size-matched group,0.16288
+1106,E_values_with_missing,size-matched group,0.15475
+1107,E_values_with_missing,size-matched group,0.16758
+1108,E_values_with_missing,size-matched group,0.14637
+1109,E_values_with_missing,size-matched group,0.15081
+1110,E_values_with_missing,size-matched group,0.15759
+1111,E_values_with_missing,size-matched group,0.15461
+1112,E_values_with_missing,size-matched group,0.17173
+1113,E_values_with_missing,size-matched group,0.18076
+1114,E_values_with_missing,size-matched group,0.17348
+1115,E_values_with_missing,size-matched group,0.18766
+1116,E_values_with_missing,size-matched group,0.15923
+1117,E_values_with_missing,size-matched group,0.17821
+1118,E_values_with_missing,size-matched group,0.15329
+1119,E_values_with_missing,size-matched group,0.16925
+1120,E_values_with_missing,size-matched group,0.15589
+1121,E_values_with_missing,size-matched group,0.16414
+1122,E_values_with_missing,size-matched group,0.15778
+1123,E_values_with_missing,size-matched group,0.16695
+1124,E_values_with_missing,size-matched group,0.1641
+1125,E_values_with_missing,size-matched group,0.18803
+1126,E_values_with_missing,size-matched group,0.15213
+1127,E_values_with_missing,size-matched group,0.15667
+1128,E_values_with_missing,size-matched group,0.16349
+1129,E_values_with_missing,size-matched group,0.18187
+1130,E_values_with_missing,size-matched group,0.16282
+1131,E_values_with_missing,size-matched group,0.171
+1132,E_values_with_missing,size-matched group,0.17396
+1133,E_values_with_missing,size-matched group,0.18898
+1134,E_values_with_missing,size-matched group,0.1694
+1135,E_values_with_missing,size-matched group,0.16996
+1136,E_values_with_missing,size-matched group,0.15793
+1137,E_values_with_missing,size-matched group,0.17033
+1138,E_values_with_missing,size-matched group,0.19123
+1139,E_values_with_missing,size-matched group,0.1679
+1140,E_values_with_missing,size-matched group,0.18609
+1141,E_values_with_missing,size-matched group,0.1517
+1142,E_values_with_missing,size-matched group,0.17184
+1143,E_values_with_missing,size-matched group,0.17616
+1144,E_values_with_missing,size-matched group,0.17405
+1145,E_values_with_missing,size-matched group,0.16536
+1146,E_values_with_missing,size-matched group,0.1647
+1147,E_values_with_missing,size-matched group,0.16202
+1148,E_values_with_missing,size-matched group,0.17101
+1149,E_values_with_missing,size-matched group,0.16427
+1150,E_values_with_missing,size-matched group,0.16636
+1151,E_values_with_missing,size-matched group,0.16651
+1152,E_values_with_missing,size-matched group,0.18216
+1153,E_values_with_missing,size-matched group,0.17006
+1154,E_values_with_missing,size-matched group,0.16412
+1155,E_values_with_missing,size-matched group,0.17141
+1156,E_values_with_missing,size-matched group,0.17274
+1157,E_values_with_missing,size-matched group,0.17999
+1158,E_values_with_missing,size-matched group,0.16532
+1159,E_values_with_missing,size-matched group,0.17306
+1160,E_values_with_missing,size-matched group,0.16511
+1161,E_values_with_missing,size-matched group,0.15374
+1162,E_values_with_missing,size-matched group,0.17063
+1163,E_values_with_missing,size-matched group,0.16441
+1164,E_values_with_missing,size-matched group,0.15825
+1165,E_values_with_missing,size-matched group,0.16727
+1166,E_values_with_missing,size-matched group,0.17714
+1167,E_values_with_missing,size-matched group,0.16256
+1168,E_values_with_missing,size-matched group,0.17838
+1169,E_values_with_missing,size-matched group,0.17627
+1170,E_values_with_missing,size-matched group,0.16084
+1171,E_values_with_missing,size-matched group,0.15249
+1172,E_values_with_missing,size-matched group,0.15661
+1173,E_values_with_missing,size-matched group,0.17058
+1174,E_values_with_missing,size-matched group,0.14408
+1175,E_values_with_missing,size-matched group,0.16503
+1176,E_values_with_missing,size-matched group,0.16277
+1177,E_values_with_missing,size-matched group,0.17569
+1178,E_values_with_missing,size-matched group,0.17328
+1179,E_values_with_missing,size-matched group,0.1651
+1180,E_values_with_missing,size-matched group,0.17676
+1181,E_values_with_missing,size-matched group,0.18283
+1182,E_values_with_missing,size-matched group,0.17305
+1183,E_values_with_missing,size-matched group,0.15736
+1184,E_values_with_missing,size-matched group,0.17715
+1185,E_values_with_missing,size-matched group,0.15352
+1186,E_values_with_missing,size-matched group,0.16582
+1187,E_values_with_missing,size-matched group,0.17608
+1188,E_values_with_missing,size-matched group,0.17513
+1189,E_values_with_missing,size-matched group,0.17663
+1190,E_values_with_missing,size-matched group,0.17887
+1191,E_values_with_missing,size-matched group,0.17663
+1192,E_values_with_missing,size-matched group,0.17324
+1193,E_values_with_missing,size-matched group,0.16986
+1194,E_values_with_missing,size-matched group,0.1549
+1195,E_values_with_missing,size-matched group,0.1713
+1196,E_values_with_missing,size-matched group,0.1591
+1197,E_values_with_missing,size-matched group,0.17026
+1198,E_values_with_missing,size-matched group,0.14643
+1199,E_values_with_missing,size-matched group,0.14524
+1200,E_values_with_missing,size-matched group,0.16898
+1201,E_values_with_missing,size-matched group,0.16731
+1202,E_values_with_missing,size-matched group,0.15668
+1203,E_values_with_missing,size-matched group,0.16451
+1204,E_values_with_missing,size-matched group,0.17274
+1205,E_values_with_missing,size-matched group,0.17521
+1206,E_values_with_missing,size-matched group,0.16803
+1207,E_values_with_missing,size-matched group,0.16476
+1208,E_values_with_missing,size-matched group,0.1631
+1209,E_values_with_missing,size-matched group,0.17409
+1210,E_values_with_missing,size-matched group,0.1563
+1211,E_values_with_missing,size-matched group,0.18451
+1212,E_values_with_missing,size-matched group,0.1529
+1213,E_values_with_missing,size-matched group,0.17773
+1214,E_values_with_missing,size-matched group,0.17761
+1215,E_values_with_missing,size-matched group,0.15523
+1216,E_values_with_missing,size-matched group,0.15416
+1217,E_values_with_missing,size-matched group,0.18762
+1218,E_values_with_missing,size-matched group,0.15372
+1219,E_values_with_missing,size-matched group,0.15092
+1220,E_values_with_missing,size-matched group,0.16167
+1221,E_values_with_missing,size-matched group,0.16249
+1222,E_values_with_missing,size-matched group,0.17338
+1223,E_values_with_missing,size-matched group,0.16836
+1224,E_values_with_missing,size-matched group,0.19504
+1225,E_values_with_missing,size-matched group,0.156
+1226,E_values_with_missing,size-matched group,0.1685
+1227,E_values_with_missing,size-matched group,0.17061
+1228,E_values_with_missing,size-matched group,0.17655
+1229,E_values_with_missing,size-matched group,0.16259
+1230,E_values_with_missing,size-matched group,0.16995
+1231,E_values_with_missing,size-matched group,0.168
+1232,E_values_with_missing,size-matched group,0.16969
+1233,E_values_with_missing,size-matched group,0.16897
+1234,E_values_with_missing,size-matched group,0.19718
+1235,E_values_with_missing,size-matched group,0.1873
+1236,E_values_with_missing,size-matched group,0.1869
+1237,E_values_with_missing,size-matched group,0.17585
+1238,E_values_with_missing,size-matched group,0.15448
+1239,E_values_with_missing,size-matched group,0.15383
+1240,E_values_with_missing,size-matched group,0.16822
+1241,E_values_with_missing,size-matched group,0.16934
+1242,E_values_with_missing,size-matched group,0.16225
+1243,E_values_with_missing,size-matched group,0.16179
+1244,E_values_with_missing,size-matched group,0.15957
+1245,E_values_with_missing,size-matched group,0.15884
+1246,E_values_with_missing,size-matched group,0.17018
+1247,E_values_with_missing,size-matched group,0.18082
+1248,E_values_with_missing,size-matched group,0.18114
+1249,E_values_with_missing,size-matched group,0.16832
+1250,F_values_complete,unit,0.15621
+1251,F_values_complete,unit,0.18011
+1252,F_values_complete,unit,0.16546
+1253,F_values_complete,unit,0.16631
+1254,F_values_complete,unit,0.17136
+1255,F_values_complete,unit,0.16428
+1256,F_values_complete,unit,0.16482
+1257,F_values_complete,unit,0.16749
+1258,F_values_complete,unit,0.18696
+1259,F_values_complete,unit,0.1736
+1260,F_values_complete,unit,0.15346
+1261,F_values_complete,unit,0.17736
+1262,F_values_complete,unit,0.19018
+1263,F_values_complete,unit,0.15914
+1264,F_values_complete,unit,0.16672
+1265,F_values_complete,unit,0.15859
+1266,F_values_complete,unit,0.16377
+1267,F_values_complete,unit,0.17965
+1268,F_values_complete,unit,0.16847
+1269,F_values_complete,unit,0.1527
+1270,F_values_complete,unit,0.17436
+1271,F_values_complete,unit,0.15906
+1272,F_values_complete,unit,0.16281
+1273,F_values_complete,unit,0.15171
+1274,F_values_complete,unit,0.16151
+1275,F_values_complete,unit,0.15817
+1276,F_values_complete,unit,0.1617
+1277,F_values_complete,unit,0.16198
+1278,F_values_complete,unit,0.15068
+1279,F_values_complete,unit,0.16605
+1280,F_values_complete,unit,0.16182
+1281,F_values_complete,unit,0.17551
+1282,F_values_complete,unit,0.17179
+1283,F_values_complete,unit,0.1631
+1284,F_values_complete,unit,0.17408
+1285,F_values_complete,unit,0.16098
+1286,F_values_complete,unit,0.16196
+1287,F_values_complete,unit,0.17001
+1288,F_values_complete,unit,0.15043
+1289,F_values_complete,unit,0.1826
+1290,F_values_complete,unit,0.15583
+1291,F_values_complete,unit,0.15576
+1292,F_values_complete,unit,0.17895
+1293,F_values_complete,unit,0.18429
+1294,F_values_complete,unit,0.16599
+1295,F_values_complete,unit,0.17323
+1296,F_values_complete,unit,0.15155
+1297,F_values_complete,unit,0.17955
+1298,F_values_complete,unit,0.18253
+1299,F_values_complete,unit,0.17203
+1300,F_values_complete,size-matched group,0.16877
+1301,F_values_complete,size-matched group,0.1704
+1302,F_values_complete,size-matched group,0.17054
+1303,F_values_complete,size-matched group,0.17547
+1304,F_values_complete,size-matched group,0.15563
+1305,F_values_complete,size-matched group,0.16426
+1306,F_values_complete,size-matched group,0.16688
+1307,F_values_complete,size-matched group,0.17232
+1308,F_values_complete,size-matched group,0.17828
+1309,F_values_complete,size-matched group,0.15404
+1310,F_values_complete,size-matched group,0.18069
+1311,F_values_complete,size-matched group,0.16135
+1312,F_values_complete,size-matched group,0.16778
+1313,F_values_complete,size-matched group,0.17283
+1314,F_values_complete,size-matched group,0.15779
+1315,F_values_complete,size-matched group,0.17956
+1316,F_values_complete,size-matched group,0.15696
+1317,F_values_complete,size-matched group,0.15506
+1318,F_values_complete,size-matched group,0.16338
+1319,F_values_complete,size-matched group,0.1662
+1320,F_values_complete,size-matched group,0.18117
+1321,F_values_complete,size-matched group,0.1634
+1322,F_values_complete,size-matched group,0.16155
+1323,F_values_complete,size-matched group,0.17709
+1324,F_values_complete,size-matched group,0.1566
+1325,F_values_complete,size-matched group,0.16702
+1326,F_values_complete,size-matched group,0.17217
+1327,F_values_complete,size-matched group,0.1698
+1328,F_values_complete,size-matched group,0.16669
+1329,F_values_complete,size-matched group,0.16684
+1330,F_values_complete,size-matched group,0.17326
+1331,F_values_complete,size-matched group,0.15812
+1332,F_values_complete,size-matched group,0.16942
+1333,F_values_complete,size-matched group,0.155
+1334,F_values_complete,size-matched group,0.16639
+1335,F_values_complete,size-matched group,0.17002
+1336,F_values_complete,size-matched group,0.16253
+1337,F_values_complete,size-matched group,0.16073
+1338,F_values_complete,size-matched group,0.15777
+1339,F_values_complete,size-matched group,0.17073
+1340,F_values_complete,size-matched group,0.16663
+1341,F_values_complete,size-matched group,0.14848
+1342,F_values_complete,size-matched group,0.14631
+1343,F_values_complete,size-matched group,0.17608
+1344,F_values_complete,size-matched group,0.1734
+1345,F_values_complete,size-matched group,0.16066
+1346,F_values_complete,size-matched group,0.15736
+1347,F_values_complete,size-matched group,0.16918
+1348,F_values_complete,size-matched group,0.17909
+1349,F_values_complete,size-matched group,0.15508
+1350,F_values_complete,size-matched group,0.17842
+1351,F_values_complete,size-matched group,0.17064
+1352,F_values_complete,size-matched group,0.18257
+1353,F_values_complete,size-matched group,0.16863
+1354,F_values_complete,size-matched group,0.14984
+1355,F_values_complete,size-matched group,0.16668
+1356,F_values_complete,size-matched group,0.16547
+1357,F_values_complete,size-matched group,0.15237
+1358,F_values_complete,size-matched group,0.17378
+1359,F_values_complete,size-matched group,0.17295
+1360,F_values_complete,size-matched group,0.16499
+1361,F_values_complete,size-matched group,0.15763
+1362,F_values_complete,size-matched group,0.17442
+1363,F_values_complete,size-matched group,0.17509
+1364,F_values_complete,size-matched group,0.17877
+1365,F_values_complete,size-matched group,0.17774
+1366,F_values_complete,size-matched group,0.15952
+1367,F_values_complete,size-matched group,0.17689
+1368,F_values_complete,size-matched group,0.15409
+1369,F_values_complete,size-matched group,0.16902
+1370,F_values_complete,size-matched group,0.15703
+1371,F_values_complete,size-matched group,0.16402
+1372,F_values_complete,size-matched group,0.18019
+1373,F_values_complete,size-matched group,0.15648
+1374,F_values_complete,size-matched group,0.15361
+1375,F_values_complete,size-matched group,0.1662
+1376,F_values_complete,size-matched group,0.17829
+1377,F_values_complete,size-matched group,0.15911
+1378,F_values_complete,size-matched group,0.17296
+1379,F_values_complete,size-matched group,0.16898
+1380,F_values_complete,size-matched group,0.16497
+1381,F_values_complete,size-matched group,0.16326
+1382,F_values_complete,size-matched group,0.16722
+1383,F_values_complete,size-matched group,0.15242
+1384,F_values_complete,size-matched group,0.16129
+1385,F_values_complete,size-matched group,0.17032
+1386,F_values_complete,size-matched group,0.16326
+1387,F_values_complete,size-matched group,0.1733
+1388,F_values_complete,size-matched group,0.16596
+1389,F_values_complete,size-matched group,0.15297
+1390,F_values_complete,size-matched group,0.1673
+1391,F_values_complete,size-matched group,0.16456
+1392,F_values_complete,size-matched group,0.16547
+1393,F_values_complete,size-matched group,0.17512
+1394,F_values_complete,size-matched group,0.167
+1395,F_values_complete,size-matched group,0.16345
+1396,F_values_complete,size-matched group,0.15114
+1397,F_values_complete,size-matched group,0.16274
+1398,F_values_complete,size-matched group,0.15725
+1399,F_values_complete,size-matched group,0.18073
+1400,F_values_complete,size-matched group,0.16989
+1401,F_values_complete,size-matched group,0.16337
+1402,F_values_complete,size-matched group,0.17346
+1403,F_values_complete,size-matched group,0.16035
+1404,F_values_complete,size-matched group,0.17721
+1405,F_values_complete,size-matched group,0.17601
+1406,F_values_complete,size-matched group,0.17023
+1407,F_values_complete,size-matched group,0.16988
+1408,F_values_complete,size-matched group,0.15868
+1409,F_values_complete,size-matched group,0.15331
+1410,F_values_complete,size-matched group,0.16342
+1411,F_values_complete,size-matched group,0.16379
+1412,F_values_complete,size-matched group,0.16
+1413,F_values_complete,size-matched group,0.15829
+1414,F_values_complete,size-matched group,0.16622
+1415,F_values_complete,size-matched group,0.15833
+1416,F_values_complete,size-matched group,0.17333
+1417,F_values_complete,size-matched group,0.18158
+1418,F_values_complete,size-matched group,0.17922
+1419,F_values_complete,size-matched group,0.17212
+1420,F_values_complete,size-matched group,0.16003
+1421,F_values_complete,size-matched group,0.16571
+1422,F_values_complete,size-matched group,0.16287
+1423,F_values_complete,size-matched group,0.16354
+1424,F_values_complete,size-matched group,0.18499
+1425,F_values_complete,size-matched group,0.16514
+1426,F_values_complete,size-matched group,0.17403
+1427,F_values_complete,size-matched group,0.16664
+1428,F_values_complete,size-matched group,0.16035
+1429,F_values_complete,size-matched group,0.17539
+1430,F_values_complete,size-matched group,0.15485
+1431,F_values_complete,size-matched group,0.17148
+1432,F_values_complete,size-matched group,0.17308
+1433,F_values_complete,size-matched group,0.17756
+1434,F_values_complete,size-matched group,0.17203
+1435,F_values_complete,size-matched group,0.16129
+1436,F_values_complete,size-matched group,0.1667
+1437,F_values_complete,size-matched group,0.16059
+1438,F_values_complete,size-matched group,0.16353
+1439,F_values_complete,size-matched group,0.16066
+1440,F_values_complete,size-matched group,0.18109
+1441,F_values_complete,size-matched group,0.1719
+1442,F_values_complete,size-matched group,0.16567
+1443,F_values_complete,size-matched group,0.16214
+1444,F_values_complete,size-matched group,0.16642
+1445,F_values_complete,size-matched group,0.16037
+1446,F_values_complete,size-matched group,0.15503
+1447,F_values_complete,size-matched group,0.1562
+1448,F_values_complete,size-matched group,0.17682
+1449,F_values_complete,size-matched group,0.16535
+1450,F_values_complete,size-matched group,0.17001
+1451,F_values_complete,size-matched group,0.15602
+1452,F_values_complete,size-matched group,0.16385
+1453,F_values_complete,size-matched group,0.17906
+1454,F_values_complete,size-matched group,0.16907
+1455,F_values_complete,size-matched group,0.15619
+1456,F_values_complete,size-matched group,0.17192
+1457,F_values_complete,size-matched group,0.17781
+1458,F_values_complete,size-matched group,0.18653
+1459,F_values_complete,size-matched group,0.15782
+1460,F_values_complete,size-matched group,0.15599
+1461,F_values_complete,size-matched group,0.15136
+1462,F_values_complete,size-matched group,0.15774
+1463,F_values_complete,size-matched group,0.15414
+1464,F_values_complete,size-matched group,0.17356
+1465,F_values_complete,size-matched group,0.16162
+1466,F_values_complete,size-matched group,0.16511
+1467,F_values_complete,size-matched group,0.18577
+1468,F_values_complete,size-matched group,0.16259
+1469,F_values_complete,size-matched group,0.16359
+1470,F_values_complete,size-matched group,0.16686
+1471,F_values_complete,size-matched group,0.17545
+1472,F_values_complete,size-matched group,0.17591
+1473,F_values_complete,size-matched group,0.16401
+1474,F_values_complete,size-matched group,0.16612
+1475,F_values_complete,size-matched group,0.1835
+1476,F_values_complete,size-matched group,0.16159
+1477,F_values_complete,size-matched group,0.18085
+1478,F_values_complete,size-matched group,0.17214
+1479,F_values_complete,size-matched group,0.16557
+1480,F_values_complete,size-matched group,0.15194
+1481,F_values_complete,size-matched group,0.16084
+1482,F_values_complete,size-matched group,0.17342
+1483,F_values_complete,size-matched group,0.19134
+1484,F_values_complete,size-matched group,0.16823
+1485,F_values_complete,size-matched group,0.17868
+1486,F_values_complete,size-matched group,0.15491
+1487,F_values_complete,size-matched group,0.16129
+1488,F_values_complete,size-matched group,0.1694
+1489,F_values_complete,size-matched group,0.17664
+1490,F_values_complete,size-matched group,0.16525
+1491,F_values_complete,size-matched group,0.15939
+1492,F_values_complete,size-matched group,0.17184
+1493,F_values_complete,size-matched group,0.16688
+1494,F_values_complete,size-matched group,0.15597
+1495,F_values_complete,size-matched group,0.16952
+1496,F_values_complete,size-matched group,0.1717
+1497,F_values_complete,size-matched group,0.17189
+1498,F_values_complete,size-matched group,0.17848
+1499,F_values_complete,size-matched group,0.16046
+1500,G_core_values_complete_core,unit,0.16036
+1501,G_core_values_complete_core,unit,0.16488
+1502,G_core_values_complete_core,unit,0.15649
+1503,G_core_values_complete_core,unit,0.15888
+1504,G_core_values_complete_core,unit,0.16803
+1505,G_core_values_complete_core,unit,0.1843
+1506,G_core_values_complete_core,unit,0.14971
+1507,G_core_values_complete_core,unit,0.1754
+1508,G_core_values_complete_core,unit,0.16993
+1509,G_core_values_complete_core,unit,0.1861
+1510,G_core_values_complete_core,unit,0.15265
+1511,G_core_values_complete_core,unit,0.16449
+1512,G_core_values_complete_core,unit,0.16379
+1513,G_core_values_complete_core,unit,0.17112
+1514,G_core_values_complete_core,unit,0.18737
+1515,G_core_values_complete_core,unit,0.16099
+1516,G_core_values_complete_core,unit,0.18321
+1517,G_core_values_complete_core,unit,0.16269
+1518,G_core_values_complete_core,unit,0.19318
+1519,G_core_values_complete_core,unit,0.16732
+1520,G_core_values_complete_core,unit,0.15603
+1521,G_core_values_complete_core,unit,0.17052
+1522,G_core_values_complete_core,unit,0.14482
+1523,G_core_values_complete_core,unit,0.1569
+1524,G_core_values_complete_core,unit,0.1288
+1525,G_core_values_complete_core,unit,0.16543
+1526,G_core_values_complete_core,unit,0.20007
+1527,G_core_values_complete_core,unit,0.16226
+1528,G_core_values_complete_core,unit,0.19984
+1529,G_core_values_complete_core,unit,0.13718
+1530,G_core_values_complete_core,unit,0.15539
+1531,G_core_values_complete_core,unit,0.12282
+1532,G_core_values_complete_core,unit,0.20009
+1533,G_core_values_complete_core,unit,0.16101
+1534,G_core_values_complete_core,unit,0.16381
+1535,G_core_values_complete_core,unit,0.15638
+1536,G_core_values_complete_core,unit,0.16365
+1537,G_core_values_complete_core,unit,0.16212
+1538,G_core_values_complete_core,unit,0.18042
+1539,G_core_values_complete_core,unit,0.15352
+1540,G_core_values_complete_core,unit,0.15873
+1541,G_core_values_complete_core,unit,0.13726
+1542,G_core_values_complete_core,unit,0.16614
+1543,G_core_values_complete_core,unit,0.15212
+1544,G_core_values_complete_core,unit,0.16694
+1545,G_core_values_complete_core,unit,0.18904
+1546,G_core_values_complete_core,unit,0.15692
+1547,G_core_values_complete_core,unit,0.20719
+1548,G_core_values_complete_core,unit,0.15218
+1549,G_core_values_complete_core,unit,0.17255
+1550,G_core_values_complete_core,size-matched group,0.15132
+1551,G_core_values_complete_core,size-matched group,0.19655
+1552,G_core_values_complete_core,size-matched group,0.17235
+1553,G_core_values_complete_core,size-matched group,0.18705
+1554,G_core_values_complete_core,size-matched group,0.17488
+1555,G_core_values_complete_core,size-matched group,0.15949
+1556,G_core_values_complete_core,size-matched group,0.15726
+1557,G_core_values_complete_core,size-matched group,0.16269
+1558,G_core_values_complete_core,size-matched group,0.16064
+1559,G_core_values_complete_core,size-matched group,0.17689
+1560,G_core_values_complete_core,size-matched group,0.15741
+1561,G_core_values_complete_core,size-matched group,0.16228
+1562,G_core_values_complete_core,size-matched group,0.17996
+1563,G_core_values_complete_core,size-matched group,0.14444
+1564,G_core_values_complete_core,size-matched group,0.16757
+1565,G_core_values_complete_core,size-matched group,0.19068
+1566,G_core_values_complete_core,size-matched group,0.16098
+1567,G_core_values_complete_core,size-matched group,0.16002
+1568,G_core_values_complete_core,size-matched group,0.15677
+1569,G_core_values_complete_core,size-matched group,0.16193
+1570,G_core_values_complete_core,size-matched group,0.1796
+1571,G_core_values_complete_core,size-matched group,0.16652
+1572,G_core_values_complete_core,size-matched group,0.146
+1573,G_core_values_complete_core,size-matched group,0.15066
+1574,G_core_values_complete_core,size-matched group,0.17243
+1575,G_core_values_complete_core,size-matched group,0.16531
+1576,G_core_values_complete_core,size-matched group,0.16652
+1577,G_core_values_complete_core,size-matched group,0.18235
+1578,G_core_values_complete_core,size-matched group,0.16383
+1579,G_core_values_complete_core,size-matched group,0.15808
+1580,G_core_values_complete_core,size-matched group,0.17616
+1581,G_core_values_complete_core,size-matched group,0.15409
+1582,G_core_values_complete_core,size-matched group,0.17552
+1583,G_core_values_complete_core,size-matched group,0.1713
+1584,G_core_values_complete_core,size-matched group,0.18009
+1585,G_core_values_complete_core,size-matched group,0.22427
+1586,G_core_values_complete_core,size-matched group,0.17087
+1587,G_core_values_complete_core,size-matched group,0.14461
+1588,G_core_values_complete_core,size-matched group,0.1645
+1589,G_core_values_complete_core,size-matched group,0.17569
+1590,G_core_values_complete_core,size-matched group,0.16824
+1591,G_core_values_complete_core,size-matched group,0.1491
+1592,G_core_values_complete_core,size-matched group,0.15445
+1593,G_core_values_complete_core,size-matched group,0.18331
+1594,G_core_values_complete_core,size-matched group,0.17588
+1595,G_core_values_complete_core,size-matched group,0.18072
+1596,G_core_values_complete_core,size-matched group,0.15654
+1597,G_core_values_complete_core,size-matched group,0.16953
+1598,G_core_values_complete_core,size-matched group,0.17106
+1599,G_core_values_complete_core,size-matched group,0.17195
+1600,G_core_values_complete_core,size-matched group,0.14193
+1601,G_core_values_complete_core,size-matched group,0.15569
+1602,G_core_values_complete_core,size-matched group,0.187
+1603,G_core_values_complete_core,size-matched group,0.18807
+1604,G_core_values_complete_core,size-matched group,0.17248
+1605,G_core_values_complete_core,size-matched group,0.19183
+1606,G_core_values_complete_core,size-matched group,0.16761
+1607,G_core_values_complete_core,size-matched group,0.1696
+1608,G_core_values_complete_core,size-matched group,0.16966
+1609,G_core_values_complete_core,size-matched group,0.16196
+1610,G_core_values_complete_core,size-matched group,0.13989
+1611,G_core_values_complete_core,size-matched group,0.17355
+1612,G_core_values_complete_core,size-matched group,0.14508
+1613,G_core_values_complete_core,size-matched group,0.16644
+1614,G_core_values_complete_core,size-matched group,0.1643
+1615,G_core_values_complete_core,size-matched group,0.19868
+1616,G_core_values_complete_core,size-matched group,0.14715
+1617,G_core_values_complete_core,size-matched group,0.16946
+1618,G_core_values_complete_core,size-matched group,0.16059
+1619,G_core_values_complete_core,size-matched group,0.1954
+1620,G_core_values_complete_core,size-matched group,0.19348
+1621,G_core_values_complete_core,size-matched group,0.14876
+1622,G_core_values_complete_core,size-matched group,0.15757
+1623,G_core_values_complete_core,size-matched group,0.17268
+1624,G_core_values_complete_core,size-matched group,0.17323
+1625,G_core_values_complete_core,size-matched group,0.17111
+1626,G_core_values_complete_core,size-matched group,0.17631
+1627,G_core_values_complete_core,size-matched group,0.15243
+1628,G_core_values_complete_core,size-matched group,0.17665
+1629,G_core_values_complete_core,size-matched group,0.17953
+1630,G_core_values_complete_core,size-matched group,0.16736
+1631,G_core_values_complete_core,size-matched group,0.15126
+1632,G_core_values_complete_core,size-matched group,0.16803
+1633,G_core_values_complete_core,size-matched group,0.19694
+1634,G_core_values_complete_core,size-matched group,0.13743
+1635,G_core_values_complete_core,size-matched group,0.16817
+1636,G_core_values_complete_core,size-matched group,0.19382
+1637,G_core_values_complete_core,size-matched group,0.16594
+1638,G_core_values_complete_core,size-matched group,0.16134
+1639,G_core_values_complete_core,size-matched group,0.16547
+1640,G_core_values_complete_core,size-matched group,0.1665
+1641,G_core_values_complete_core,size-matched group,0.17674
+1642,G_core_values_complete_core,size-matched group,0.15701
+1643,G_core_values_complete_core,size-matched group,0.13313
+1644,G_core_values_complete_core,size-matched group,0.16726
+1645,G_core_values_complete_core,size-matched group,0.18319
+1646,G_core_values_complete_core,size-matched group,0.19417
+1647,G_core_values_complete_core,size-matched group,0.17182
+1648,G_core_values_complete_core,size-matched group,0.1648
+1649,G_core_values_complete_core,size-matched group,0.17178
+1650,G_core_values_complete_core,size-matched group,0.19041
+1651,G_core_values_complete_core,size-matched group,0.17599
+1652,G_core_values_complete_core,size-matched group,0.17963
+1653,G_core_values_complete_core,size-matched group,0.18399
+1654,G_core_values_complete_core,size-matched group,0.14828
+1655,G_core_values_complete_core,size-matched group,0.16477
+1656,G_core_values_complete_core,size-matched group,0.17688
+1657,G_core_values_complete_core,size-matched group,0.21623
+1658,G_core_values_complete_core,size-matched group,0.15142
+1659,G_core_values_complete_core,size-matched group,0.16999
+1660,G_core_values_complete_core,size-matched group,0.17349
+1661,G_core_values_complete_core,size-matched group,0.14914
+1662,G_core_values_complete_core,size-matched group,0.15639
+1663,G_core_values_complete_core,size-matched group,0.11973
+1664,G_core_values_complete_core,size-matched group,0.15002
+1665,G_core_values_complete_core,size-matched group,0.13733
+1666,G_core_values_complete_core,size-matched group,0.15263
+1667,G_core_values_complete_core,size-matched group,0.18514
+1668,G_core_values_complete_core,size-matched group,0.19036
+1669,G_core_values_complete_core,size-matched group,0.18455
+1670,G_core_values_complete_core,size-matched group,0.14834
+1671,G_core_values_complete_core,size-matched group,0.19804
+1672,G_core_values_complete_core,size-matched group,0.17234
+1673,G_core_values_complete_core,size-matched group,0.13011
+1674,G_core_values_complete_core,size-matched group,0.17916
+1675,G_core_values_complete_core,size-matched group,0.16597
+1676,G_core_values_complete_core,size-matched group,0.17889
+1677,G_core_values_complete_core,size-matched group,0.14035
+1678,G_core_values_complete_core,size-matched group,0.17369
+1679,G_core_values_complete_core,size-matched group,0.19334
+1680,G_core_values_complete_core,size-matched group,0.19525
+1681,G_core_values_complete_core,size-matched group,0.14451
+1682,G_core_values_complete_core,size-matched group,0.19228
+1683,G_core_values_complete_core,size-matched group,0.17212
+1684,G_core_values_complete_core,size-matched group,0.15951
+1685,G_core_values_complete_core,size-matched group,0.18465
+1686,G_core_values_complete_core,size-matched group,0.13409
+1687,G_core_values_complete_core,size-matched group,0.16555
+1688,G_core_values_complete_core,size-matched group,0.16028
+1689,G_core_values_complete_core,size-matched group,0.15793
+1690,G_core_values_complete_core,size-matched group,0.17502
+1691,G_core_values_complete_core,size-matched group,0.17511
+1692,G_core_values_complete_core,size-matched group,0.17416
+1693,G_core_values_complete_core,size-matched group,0.16332
+1694,G_core_values_complete_core,size-matched group,0.19893
+1695,G_core_values_complete_core,size-matched group,0.17615
+1696,G_core_values_complete_core,size-matched group,0.14766
+1697,G_core_values_complete_core,size-matched group,0.16327
+1698,G_core_values_complete_core,size-matched group,0.15519
+1699,G_core_values_complete_core,size-matched group,0.15914
+1700,G_core_values_complete_core,size-matched group,0.16481
+1701,G_core_values_complete_core,size-matched group,0.13719
+1702,G_core_values_complete_core,size-matched group,0.17519
+1703,G_core_values_complete_core,size-matched group,0.16706
+1704,G_core_values_complete_core,size-matched group,0.15973
+1705,G_core_values_complete_core,size-matched group,0.14997
+1706,G_core_values_complete_core,size-matched group,0.16113
+1707,G_core_values_complete_core,size-matched group,0.17794
+1708,G_core_values_complete_core,size-matched group,0.17186
+1709,G_core_values_complete_core,size-matched group,0.14399
+1710,G_core_values_complete_core,size-matched group,0.16196
+1711,G_core_values_complete_core,size-matched group,0.17106
+1712,G_core_values_complete_core,size-matched group,0.1898
+1713,G_core_values_complete_core,size-matched group,0.15556
+1714,G_core_values_complete_core,size-matched group,0.17791
+1715,G_core_values_complete_core,size-matched group,0.1333
+1716,G_core_values_complete_core,size-matched group,0.15566
+1717,G_core_values_complete_core,size-matched group,0.17536
+1718,G_core_values_complete_core,size-matched group,0.17319
+1719,G_core_values_complete_core,size-matched group,0.15945
+1720,G_core_values_complete_core,size-matched group,0.20708
+1721,G_core_values_complete_core,size-matched group,0.18035
+1722,G_core_values_complete_core,size-matched group,0.21053
+1723,G_core_values_complete_core,size-matched group,0.18076
+1724,G_core_values_complete_core,size-matched group,0.17194
+1725,G_core_values_complete_core,size-matched group,0.15095
+1726,G_core_values_complete_core,size-matched group,0.14542
+1727,G_core_values_complete_core,size-matched group,0.17144
+1728,G_core_values_complete_core,size-matched group,0.1614
+1729,G_core_values_complete_core,size-matched group,0.13304
+1730,G_core_values_complete_core,size-matched group,0.20983
+1731,G_core_values_complete_core,size-matched group,0.19249
+1732,G_core_values_complete_core,size-matched group,0.14901
+1733,G_core_values_complete_core,size-matched group,0.17172
+1734,G_core_values_complete_core,size-matched group,0.17582
+1735,G_core_values_complete_core,size-matched group,0.17664
+1736,G_core_values_complete_core,size-matched group,0.13885
+1737,G_core_values_complete_core,size-matched group,0.16369
+1738,G_core_values_complete_core,size-matched group,0.16316
+1739,G_core_values_complete_core,size-matched group,0.16683
+1740,G_core_values_complete_core,size-matched group,0.17574
+1741,G_core_values_complete_core,size-matched group,0.16791
+1742,G_core_values_complete_core,size-matched group,0.15051
+1743,G_core_values_complete_core,size-matched group,0.1685
+1744,G_core_values_complete_core,size-matched group,0.19983
+1745,G_core_values_complete_core,size-matched group,0.1619
+1746,G_core_values_complete_core,size-matched group,0.18095
+1747,G_core_values_complete_core,size-matched group,0.17707
+1748,G_core_values_complete_core,size-matched group,0.16912
+1749,G_core_values_complete_core,size-matched group,0.14584
+1750,I_image_border_stats,unit,0.17501
+1751,I_image_border_stats,unit,0.16362
+1752,I_image_border_stats,unit,0.17202
+1753,I_image_border_stats,unit,0.1642
+1754,I_image_border_stats,unit,0.16344
+1755,I_image_border_stats,unit,0.15485
+1756,I_image_border_stats,unit,0.17885
+1757,I_image_border_stats,unit,0.17672
+1758,I_image_border_stats,unit,0.17557
+1759,I_image_border_stats,unit,0.17147
+1760,I_image_border_stats,unit,0.16098
+1761,I_image_border_stats,unit,0.15879
+1762,I_image_border_stats,unit,0.16273
+1763,I_image_border_stats,unit,0.16147
+1764,I_image_border_stats,unit,0.16774
+1765,I_image_border_stats,unit,0.17633
+1766,I_image_border_stats,unit,0.16326
+1767,I_image_border_stats,unit,0.1797
+1768,I_image_border_stats,unit,0.16401
+1769,I_image_border_stats,unit,0.16379
+1770,I_image_border_stats,unit,0.16097
+1771,I_image_border_stats,unit,0.16568
+1772,I_image_border_stats,unit,0.16976
+1773,I_image_border_stats,unit,0.16378
+1774,I_image_border_stats,unit,0.17012
+1775,I_image_border_stats,unit,0.16752
+1776,I_image_border_stats,unit,0.16898
+1777,I_image_border_stats,unit,0.17518
+1778,I_image_border_stats,unit,0.16927
+1779,I_image_border_stats,unit,0.17172
+1780,I_image_border_stats,unit,0.17905
+1781,I_image_border_stats,unit,0.17946
+1782,I_image_border_stats,unit,0.16687
+1783,I_image_border_stats,unit,0.1673
+1784,I_image_border_stats,unit,0.16913
+1785,I_image_border_stats,unit,0.18253
+1786,I_image_border_stats,unit,0.17612
+1787,I_image_border_stats,unit,0.17131
+1788,I_image_border_stats,unit,0.17511
+1789,I_image_border_stats,unit,0.15813
+1790,I_image_border_stats,unit,0.18385
+1791,I_image_border_stats,unit,0.16744
+1792,I_image_border_stats,unit,0.18073
+1793,I_image_border_stats,unit,0.18031
+1794,I_image_border_stats,unit,0.16452
+1795,I_image_border_stats,unit,0.17231
+1796,I_image_border_stats,unit,0.18012
+1797,I_image_border_stats,unit,0.17363
+1798,I_image_border_stats,unit,0.15582
+1799,I_image_border_stats,unit,0.16101
+1800,I_image_border_stats,size-matched group,0.14879
+1801,I_image_border_stats,size-matched group,0.161
+1802,I_image_border_stats,size-matched group,0.16384
+1803,I_image_border_stats,size-matched group,0.16342
+1804,I_image_border_stats,size-matched group,0.1713
+1805,I_image_border_stats,size-matched group,0.16058
+1806,I_image_border_stats,size-matched group,0.15964
+1807,I_image_border_stats,size-matched group,0.16755
+1808,I_image_border_stats,size-matched group,0.15351
+1809,I_image_border_stats,size-matched group,0.1653
+1810,I_image_border_stats,size-matched group,0.17056
+1811,I_image_border_stats,size-matched group,0.16433
+1812,I_image_border_stats,size-matched group,0.18001
+1813,I_image_border_stats,size-matched group,0.16038
+1814,I_image_border_stats,size-matched group,0.17001
+1815,I_image_border_stats,size-matched group,0.17622
+1816,I_image_border_stats,size-matched group,0.15858
+1817,I_image_border_stats,size-matched group,0.16718
+1818,I_image_border_stats,size-matched group,0.16822
+1819,I_image_border_stats,size-matched group,0.16811
+1820,I_image_border_stats,size-matched group,0.16851
+1821,I_image_border_stats,size-matched group,0.16743
+1822,I_image_border_stats,size-matched group,0.16028
+1823,I_image_border_stats,size-matched group,0.16842
+1824,I_image_border_stats,size-matched group,0.15968
+1825,I_image_border_stats,size-matched group,0.17277
+1826,I_image_border_stats,size-matched group,0.17016
+1827,I_image_border_stats,size-matched group,0.16271
+1828,I_image_border_stats,size-matched group,0.1699
+1829,I_image_border_stats,size-matched group,0.15305
+1830,I_image_border_stats,size-matched group,0.16888
+1831,I_image_border_stats,size-matched group,0.17043
+1832,I_image_border_stats,size-matched group,0.16655
+1833,I_image_border_stats,size-matched group,0.17553
+1834,I_image_border_stats,size-matched group,0.15577
+1835,I_image_border_stats,size-matched group,0.15869
+1836,I_image_border_stats,size-matched group,0.16661
+1837,I_image_border_stats,size-matched group,0.17433
+1838,I_image_border_stats,size-matched group,0.18394
+1839,I_image_border_stats,size-matched group,0.16271
+1840,I_image_border_stats,size-matched group,0.17687
+1841,I_image_border_stats,size-matched group,0.1716
+1842,I_image_border_stats,size-matched group,0.16842
+1843,I_image_border_stats,size-matched group,0.15714
+1844,I_image_border_stats,size-matched group,0.17114
+1845,I_image_border_stats,size-matched group,0.16027
+1846,I_image_border_stats,size-matched group,0.16095
+1847,I_image_border_stats,size-matched group,0.16188
+1848,I_image_border_stats,size-matched group,0.16312
+1849,I_image_border_stats,size-matched group,0.16472
+1850,I_image_border_stats,size-matched group,0.1716
+1851,I_image_border_stats,size-matched group,0.1783
+1852,I_image_border_stats,size-matched group,0.17139
+1853,I_image_border_stats,size-matched group,0.16579
+1854,I_image_border_stats,size-matched group,0.16595
+1855,I_image_border_stats,size-matched group,0.16626
+1856,I_image_border_stats,size-matched group,0.16586
+1857,I_image_border_stats,size-matched group,0.16802
+1858,I_image_border_stats,size-matched group,0.16843
+1859,I_image_border_stats,size-matched group,0.17214
+1860,I_image_border_stats,size-matched group,0.17137
+1861,I_image_border_stats,size-matched group,0.17035
+1862,I_image_border_stats,size-matched group,0.17175
+1863,I_image_border_stats,size-matched group,0.16268
+1864,I_image_border_stats,size-matched group,0.17142
+1865,I_image_border_stats,size-matched group,0.1685
+1866,I_image_border_stats,size-matched group,0.15687
+1867,I_image_border_stats,size-matched group,0.16456
+1868,I_image_border_stats,size-matched group,0.1665
+1869,I_image_border_stats,size-matched group,0.1589
+1870,I_image_border_stats,size-matched group,0.16432
+1871,I_image_border_stats,size-matched group,0.172
+1872,I_image_border_stats,size-matched group,0.17395
+1873,I_image_border_stats,size-matched group,0.17344
+1874,I_image_border_stats,size-matched group,0.16735
+1875,I_image_border_stats,size-matched group,0.17675
+1876,I_image_border_stats,size-matched group,0.16358
+1877,I_image_border_stats,size-matched group,0.16751
+1878,I_image_border_stats,size-matched group,0.16195
+1879,I_image_border_stats,size-matched group,0.16622
+1880,I_image_border_stats,size-matched group,0.16912
+1881,I_image_border_stats,size-matched group,0.17687
+1882,I_image_border_stats,size-matched group,0.17114
+1883,I_image_border_stats,size-matched group,0.15609
+1884,I_image_border_stats,size-matched group,0.16584
+1885,I_image_border_stats,size-matched group,0.16878
+1886,I_image_border_stats,size-matched group,0.16878
+1887,I_image_border_stats,size-matched group,0.16306
+1888,I_image_border_stats,size-matched group,0.17004
+1889,I_image_border_stats,size-matched group,0.16892
+1890,I_image_border_stats,size-matched group,0.15409
+1891,I_image_border_stats,size-matched group,0.16324
+1892,I_image_border_stats,size-matched group,0.16744
+1893,I_image_border_stats,size-matched group,0.15535
+1894,I_image_border_stats,size-matched group,0.17843
+1895,I_image_border_stats,size-matched group,0.1597
+1896,I_image_border_stats,size-matched group,0.17714
+1897,I_image_border_stats,size-matched group,0.16366
+1898,I_image_border_stats,size-matched group,0.18051
+1899,I_image_border_stats,size-matched group,0.16513
+1900,I_image_border_stats,size-matched group,0.18634
+1901,I_image_border_stats,size-matched group,0.17022
+1902,I_image_border_stats,size-matched group,0.15662
+1903,I_image_border_stats,size-matched group,0.15783
+1904,I_image_border_stats,size-matched group,0.17411
+1905,I_image_border_stats,size-matched group,0.16709
+1906,I_image_border_stats,size-matched group,0.16684
+1907,I_image_border_stats,size-matched group,0.15949
+1908,I_image_border_stats,size-matched group,0.16828
+1909,I_image_border_stats,size-matched group,0.17903
+1910,I_image_border_stats,size-matched group,0.15993
+1911,I_image_border_stats,size-matched group,0.17468
+1912,I_image_border_stats,size-matched group,0.17337
+1913,I_image_border_stats,size-matched group,0.15804
+1914,I_image_border_stats,size-matched group,0.15582
+1915,I_image_border_stats,size-matched group,0.15055
+1916,I_image_border_stats,size-matched group,0.16782
+1917,I_image_border_stats,size-matched group,0.16143
+1918,I_image_border_stats,size-matched group,0.17005
+1919,I_image_border_stats,size-matched group,0.16481
+1920,I_image_border_stats,size-matched group,0.17603
+1921,I_image_border_stats,size-matched group,0.15843
+1922,I_image_border_stats,size-matched group,0.16163
+1923,I_image_border_stats,size-matched group,0.16294
+1924,I_image_border_stats,size-matched group,0.15492
+1925,I_image_border_stats,size-matched group,0.17198
+1926,I_image_border_stats,size-matched group,0.17492
+1927,I_image_border_stats,size-matched group,0.16906
+1928,I_image_border_stats,size-matched group,0.18178
+1929,I_image_border_stats,size-matched group,0.15905
+1930,I_image_border_stats,size-matched group,0.15415
+1931,I_image_border_stats,size-matched group,0.16296
+1932,I_image_border_stats,size-matched group,0.17098
+1933,I_image_border_stats,size-matched group,0.17709
+1934,I_image_border_stats,size-matched group,0.17153
+1935,I_image_border_stats,size-matched group,0.15612
+1936,I_image_border_stats,size-matched group,0.16594
+1937,I_image_border_stats,size-matched group,0.158
+1938,I_image_border_stats,size-matched group,0.17554
+1939,I_image_border_stats,size-matched group,0.17231
+1940,I_image_border_stats,size-matched group,0.16386
+1941,I_image_border_stats,size-matched group,0.16288
+1942,I_image_border_stats,size-matched group,0.17282
+1943,I_image_border_stats,size-matched group,0.17641
+1944,I_image_border_stats,size-matched group,0.15432
+1945,I_image_border_stats,size-matched group,0.1714
+1946,I_image_border_stats,size-matched group,0.17323
+1947,I_image_border_stats,size-matched group,0.17178
+1948,I_image_border_stats,size-matched group,0.17384
+1949,I_image_border_stats,size-matched group,0.15899
+1950,I_image_border_stats,size-matched group,0.1573
+1951,I_image_border_stats,size-matched group,0.16873
+1952,I_image_border_stats,size-matched group,0.18005
+1953,I_image_border_stats,size-matched group,0.17006
+1954,I_image_border_stats,size-matched group,0.17112
+1955,I_image_border_stats,size-matched group,0.17322
+1956,I_image_border_stats,size-matched group,0.15798
+1957,I_image_border_stats,size-matched group,0.17384
+1958,I_image_border_stats,size-matched group,0.16048
+1959,I_image_border_stats,size-matched group,0.15174
+1960,I_image_border_stats,size-matched group,0.18187
+1961,I_image_border_stats,size-matched group,0.16729
+1962,I_image_border_stats,size-matched group,0.16917
+1963,I_image_border_stats,size-matched group,0.17648
+1964,I_image_border_stats,size-matched group,0.16001
+1965,I_image_border_stats,size-matched group,0.17229
+1966,I_image_border_stats,size-matched group,0.16817
+1967,I_image_border_stats,size-matched group,0.16996
+1968,I_image_border_stats,size-matched group,0.15377
+1969,I_image_border_stats,size-matched group,0.16091
+1970,I_image_border_stats,size-matched group,0.15631
+1971,I_image_border_stats,size-matched group,0.16866
+1972,I_image_border_stats,size-matched group,0.15761
+1973,I_image_border_stats,size-matched group,0.15246
+1974,I_image_border_stats,size-matched group,0.17379
+1975,I_image_border_stats,size-matched group,0.16437
+1976,I_image_border_stats,size-matched group,0.16585
+1977,I_image_border_stats,size-matched group,0.1673
+1978,I_image_border_stats,size-matched group,0.16643
+1979,I_image_border_stats,size-matched group,0.16415
+1980,I_image_border_stats,size-matched group,0.16549
+1981,I_image_border_stats,size-matched group,0.17311
+1982,I_image_border_stats,size-matched group,0.16801
+1983,I_image_border_stats,size-matched group,0.16335
+1984,I_image_border_stats,size-matched group,0.1737
+1985,I_image_border_stats,size-matched group,0.17184
+1986,I_image_border_stats,size-matched group,0.16823
+1987,I_image_border_stats,size-matched group,0.15738
+1988,I_image_border_stats,size-matched group,0.15729
+1989,I_image_border_stats,size-matched group,0.16879
+1990,I_image_border_stats,size-matched group,0.17312
+1991,I_image_border_stats,size-matched group,0.16887
+1992,I_image_border_stats,size-matched group,0.16515
+1993,I_image_border_stats,size-matched group,0.16382
+1994,I_image_border_stats,size-matched group,0.16926
+1995,I_image_border_stats,size-matched group,0.16174
+1996,I_image_border_stats,size-matched group,0.15984
+1997,I_image_border_stats,size-matched group,0.16952
+1998,I_image_border_stats,size-matched group,0.17278
+1999,I_image_border_stats,size-matched group,0.15904
